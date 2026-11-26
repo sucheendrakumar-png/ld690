@@ -1,0 +1,143 @@
+{
+ "ld7": {
+  "n": 478,
+  "bacc_seed7": 0.644,
+  "ci95": [
+   0.592,
+   0.692
+  ],
+  "seeds_mean": 0.643,
+  "seeds_min": 0.63,
+  "seeds_max": 0.662
+ },
+ "year_only": {
+  "n": 371,
+  "classes": [
+   "Kannadasan",
+   "Madhan Karky",
+   "Na. Muthukumar",
+   "Subramanya Bharathi",
+   "Thamarai",
+   "Vaali",
+   "Vairamuthu"
+  ],
+  "bacc_year_only": 0.512,
+  "bacc_text_same_songs": 0.572
+ },
+ "binary_era_matched_LD": {
+  "bacc": 0.495,
+  "n": 117,
+  "counts": {
+   "Vaali": 17,
+   "Kannadasan": 100
+  },
+  "recall": {
+   "Vaali": 0.0,
+   "Kannadasan": 0.99
+  }
+ },
+ "binary_era_matched_TLC": {
+  "bacc": 0.728,
+  "n": 473,
+  "counts": {
+   "Vaali": 144,
+   "Kannadasan": 329
+  },
+  "recall": {
+   "Vaali": 0.611,
+   "Kannadasan": 0.845
+  }
+ },
+ "tree": [
+  {
+   "poet": "Vairamuthu",
+   "n": 132,
+   "nearest": "Na. Muthukumar",
+   "stable": 0.37
+  },
+  {
+   "poet": "Kannadasan",
+   "n": 122,
+   "nearest": "Vaali",
+   "stable": 0.41
+  },
+  {
+   "poet": "Subramanya Bharathi",
+   "n": 68,
+   "nearest": "Kannadasan",
+   "stable": 0.7
+  },
+  {
+   "poet": "Vaali",
+   "n": 67,
+   "nearest": "Kannadasan",
+   "stable": 0.66
+  },
+  {
+   "poet": "Na. Muthukumar",
+   "n": 39,
+   "nearest": "Thamarai",
+   "stable": 0.91
+  },
+  {
+   "poet": "Thamarai",
+   "n": 25,
+   "nearest": "Na. Muthukumar",
+   "stable": 0.8
+  },
+  {
+   "poet": "Madhan Karky",
+   "n": 25,
+   "nearest": "Thamarai",
+   "stable": 0.82
+  },
+  {
+   "poet": "Gangai Amaran",
+   "n": 14,
+   "nearest": "Yugabharathi",
+   "stable": 0.37
+  },
+  {
+   "poet": "Vivek",
+   "n": 12,
+   "nearest": "Madhan Karky",
+   "stable": 0.63
+  },
+  {
+   "poet": "Pulamaipithan",
+   "n": 10,
+   "nearest": "Vaali",
+   "stable": 0.29
+  },
+  {
+   "poet": "Kabilan",
+   "n": 10,
+   "nearest": "Thamarai",
+   "stable": 0.55
+  },
+  {
+   "poet": "Pa.Vijay",
+   "n": 10,
+   "nearest": "Thamarai",
+   "stable": 0.31
+  },
+  {
+   "poet": "Yugabharathi",
+   "n": 9,
+   "nearest": "Thamarai",
+   "stable": 0.66
+  },
+  {
+   "poet": "Kamal haasan",
+   "n": 9,
+   "nearest": "Subramanya Bharathi",
+   "stable": 0.52
+  },
+  {
+   "poet": "Pazhani bharati",
+   "n": 9,
+   "nearest": "Na. Muthukumar",
+   "stable": 0.56
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "posts": 695,
+ "parallel_songs": 689,
+ "with_translit": 677,
+ "tamil_lines": 18006,
+ "tamil_tokens": 72296,
+ "tamil_types": 24086,
+ "english_lines": 16761,
+ "english_tokens": 148468,
+ "translit_lines": 17614,
+ "dated": 554,
+ "year_min": 1941,
+ "year_max": 2024,
+ "post_first": "2011-03-19",
+ "post_last": "2026-11-23",
+ "lyricists": 86,
+ "lyricists_25plus": 7,
+ "top_lyricists": [
+  [
+   "Vairamuthu",
+   132
+  ],
+  [
+   "Kannadasan",
+   122
+  ],
+  [
+   "Subramanya Bharathi",
+   68
+  ],
+  [
+   "Vaali",
+   67
+  ],
+  [
+   "Na. Muthukumar",
+   39
+  ],
+  [
+   "Thamarai",
+   25
+  ],
+  [
+   "Madhan Karky",
+   25
+  ],
+  [
+   "Gangai Amaran",
+   14
+  ],
+  [
+   "Vivek",
+   12
+  ],
+  [
+   "Pulamaipithan",
+   10
+  ],
+  [
+   "Kabilan",
+   10
+  ],
+  [
+   "Pa.Vijay",
+   10
+  ]
+ ],
+ "by_decade": [
+  [
+   1940,
+   3
+  ],
+  [
+   1950,
+   18
+  ],
+  [
+   1960,
+   96
+  ],
+  [
+   1970,
+   30
+  ],
+  [
+   1980,
+   60
+  ],
+  [
+   1990,
+   75
+  ],
+  [
+   2000,
+   88
+  ],
+  [
+   2010,
+   166
+  ],
+  [
+   2020,
+   18
+  ]
+ ],
+ "moods": [
+  [
+   "love",
+   246
+  ],
+  [
+   "philosophy",
+   186
+  ],
+  [
+   "nature",
+   83
+  ],
+  [
+   "longing",
+   81
+  ],
+  [
+   "courage",
+   77
+  ],
+  [
+   "joy",
+   71
+  ],
+  [
+   "devotion",
+   51
+  ],
+  [
+   "mother",
+   48
+  ],
+  [
+   "homeland",
+   47
+  ],
+  [
+   "friendship",
+   14
+  ]
+ ],
+ "with_mood": 663
+}

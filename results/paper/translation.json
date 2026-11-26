@@ -1,0 +1,483 @@
+{
+ "id": {
+  "tamil_char": {
+   "bacc": 0.644,
+   "seeds": [
+    0.63,
+    0.662
+   ],
+   "recall": {
+    "Kannadasan": 0.82,
+    "Madhan Karky": 0.32,
+    "Na.Muthukumar": 0.615,
+    "Subramanya Bharathi": 0.941,
+    "Thamarai": 0.68,
+    "Vaali": 0.373,
+    "Vairamuthu": 0.758
+   }
+  },
+  "english_char": {
+   "bacc": 0.46,
+   "seeds": [
+    0.46,
+    0.513
+   ],
+   "recall": {
+    "Kannadasan": 0.779,
+    "Madhan Karky": 0.28,
+    "Na.Muthukumar": 0.436,
+    "Subramanya Bharathi": 0.735,
+    "Thamarai": 0.32,
+    "Vaali": 0.09,
+    "Vairamuthu": 0.583
+   },
+   "confusion": [
+    [
+     0.779,
+     0.008,
+     0.0,
+     0.049,
+     0.008,
+     0.049,
+     0.107
+    ],
+    [
+     0.12,
+     0.28,
+     0.04,
+     0.0,
+     0.16,
+     0.04,
+     0.36
+    ],
+    [
+     0.0,
+     0.026,
+     0.436,
+     0.0,
+     0.128,
+     0.0,
+     0.41
+    ],
+    [
+     0.118,
+     0.0,
+     0.0,
+     0.735,
+     0.0,
+     0.059,
+     0.088
+    ],
+    [
+     0.04,
+     0.12,
+     0.2,
+     0.0,
+     0.32,
+     0.12,
+     0.2
+    ],
+    [
+     0.433,
+     0.03,
+     0.075,
+     0.09,
+     0.06,
+     0.09,
+     0.224
+    ],
+    [
+     0.174,
+     0.015,
+     0.114,
+     0.008,
+     0.03,
+     0.076,
+     0.583
+    ]
+   ]
+  },
+  "english_words": {
+   "bacc": 0.478,
+   "seeds": [
+    0.478,
+    0.519
+   ],
+   "recall": {
+    "Kannadasan": 0.77,
+    "Madhan Karky": 0.12,
+    "Na.Muthukumar": 0.282,
+    "Subramanya Bharathi": 0.794,
+    "Thamarai": 0.56,
+    "Vaali": 0.134,
+    "Vairamuthu": 0.682
+   }
+  },
+  "both": {
+   "bacc": 0.617,
+   "seeds": [
+    0.613,
+    0.636
+   ],
+   "recall": {
+    "Kannadasan": 0.836,
+    "Madhan Karky": 0.32,
+    "Na.Muthukumar": 0.538,
+    "Subramanya Bharathi": 0.941,
+    "Thamarai": 0.68,
+    "Vaali": 0.254,
+    "Vairamuthu": 0.75
+   }
+  },
+  "moods_only": {
+   "bacc": 0.318
+  },
+  "agree": {
+   "both_right": 0.467,
+   "same_prediction": 0.607
+  },
+  "vaali_kannadasan_tamil": 0.751,
+  "vaali_kannadasan_english": 0.661,
+  "controls": {
+   "no_bharathi": {
+    "english": {
+     "n": 410,
+     "k": 6,
+     "bacc": 0.432,
+     "chance": 0.167
+    },
+    "tamil": {
+     "n": 410,
+     "k": 6,
+     "bacc": 0.589,
+     "chance": 0.167
+    }
+   },
+   "love_only": {
+    "english": {
+     "n": 165,
+     "k": 7,
+     "bacc": 0.394,
+     "chance": 0.143
+    },
+    "tamil": {
+     "n": 165,
+     "k": 7,
+     "bacc": 0.472,
+     "chance": 0.143
+    }
+   },
+   "philosophy_only": {
+    "english": {
+     "n": 132,
+     "k": 5,
+     "bacc": 0.272,
+     "chance": 0.2
+    },
+    "tamil": {
+     "n": 132,
+     "k": 5,
+     "bacc": 0.438,
+     "chance": 0.2
+    }
+   },
+   "love_no_bharathi": {
+    "english": {
+     "n": 159,
+     "k": 6,
+     "bacc": 0.354,
+     "chance": 0.167
+    },
+    "tamil": {
+     "n": 159,
+     "k": 6,
+     "bacc": 0.449,
+     "chance": 0.167
+    }
+   }
+  },
+  "translator": {
+   "songs_per_translator": [
+    390,
+    163,
+    111
+   ],
+   "from_english": {
+    "n": 664,
+    "k": 3,
+    "bacc": 0.856,
+    "chance": 0.333
+   },
+   "from_tamil": {
+    "n": 664,
+    "k": 3,
+    "bacc": 0.494,
+    "chance": 0.333
+   },
+   "poet_within_translator": [
+    {
+     "english": {
+      "n": 265,
+      "k": 7,
+      "bacc": 0.377,
+      "chance": 0.143
+     },
+     "tamil": {
+      "n": 265,
+      "k": 7,
+      "bacc": 0.557,
+      "chance": 0.143
+     }
+    },
+    {
+     "english": {
+      "n": 125,
+      "k": 7,
+      "bacc": 0.392,
+      "chance": 0.143
+     },
+     "tamil": {
+      "n": 125,
+      "k": 7,
+      "bacc": 0.431,
+      "chance": 0.143
+     }
+    }
+   ]
+  },
+  "n": 478,
+  "classes": [
+   "Kannadasan",
+   "Madhan Karky",
+   "Na.Muthukumar",
+   "Subramanya Bharathi",
+   "Thamarai",
+   "Vaali",
+   "Vairamuthu"
+  ]
+ },
+ "meaning": {
+  "tamil": {
+   "poet": 0.105,
+   "mood": 0.221,
+   "era": 0.112
+  },
+  "english": {
+   "poet": 0.071,
+   "mood": 0.25,
+   "era": 0.078
+  },
+  "both": {
+   "poet": 0.104,
+   "mood": 0.287,
+   "era": 0.107
+  },
+  "retrieval": {
+   "n": 689,
+   "top1": 0.852,
+   "own": 0.688,
+   "other": 0.521
+  },
+  "n": 371
+ },
+ "profile": {
+  "all": {
+   "lines": 15721,
+   "tokens": 141892,
+   "tokens_per_line": 9.03,
+   "arch_per_1k": 0.72,
+   "divine_caps_per_1k_lines": 4.3,
+   "end_rhyme": 0.016,
+   "question_lines": 0.115,
+   "ttr_2k": 0.386
+  },
+  "ta_lines": 16748,
+  "en_lines": 15721,
+  "ta_tokens": 67904,
+  "devotion": {
+   "lines": 704,
+   "tokens": 7385,
+   "tokens_per_line": 10.49,
+   "arch_per_1k": 2.17,
+   "divine_caps_per_1k_lines": 24.1,
+   "end_rhyme": 0.029,
+   "question_lines": 0.043,
+   "ttr_2k": 0.379,
+   "n": 33
+  },
+  "philosophy": {
+   "lines": 3901,
+   "tokens": 37839,
+   "tokens_per_line": 9.7,
+   "arch_per_1k": 0.92,
+   "divine_caps_per_1k_lines": 6.7,
+   "end_rhyme": 0.016,
+   "question_lines": 0.115,
+   "ttr_2k": 0.378,
+   "n": 175
+  },
+  "love": {
+   "lines": 5847,
+   "tokens": 48235,
+   "tokens_per_line": 8.25,
+   "arch_per_1k": 0.41,
+   "divine_caps_per_1k_lines": 0.3,
+   "end_rhyme": 0.017,
+   "question_lines": 0.144,
+   "ttr_2k": 0.36,
+   "n": 246
+  },
+  "longing": {
+   "lines": 1025,
+   "tokens": 9232,
+   "tokens_per_line": 9.01,
+   "arch_per_1k": 0.54,
+   "divine_caps_per_1k_lines": 3.9,
+   "end_rhyme": 0.007,
+   "question_lines": 0.172,
+   "ttr_2k": 0.353,
+   "n": 50
+  },
+  "joy": {
+   "lines": 558,
+   "tokens": 5460,
+   "tokens_per_line": 9.78,
+   "arch_per_1k": 0.37,
+   "divine_caps_per_1k_lines": 0.0,
+   "end_rhyme": 0.002,
+   "question_lines": 0.09,
+   "ttr_2k": 0.383,
+   "n": 26
+  },
+  "nature": {
+   "lines": 519,
+   "tokens": 4981,
+   "tokens_per_line": 9.6,
+   "arch_per_1k": 1.0,
+   "divine_caps_per_1k_lines": 1.9,
+   "end_rhyme": 0.004,
+   "question_lines": 0.143,
+   "ttr_2k": 0.358,
+   "n": 25
+  },
+  "mother": {
+   "lines": 862,
+   "tokens": 7877,
+   "tokens_per_line": 9.14,
+   "arch_per_1k": 0.76,
+   "divine_caps_per_1k_lines": 0.0,
+   "end_rhyme": 0.042,
+   "question_lines": 0.066,
+   "ttr_2k": 0.372,
+   "n": 35
+  },
+  "courage": {
+   "lines": 1001,
+   "tokens": 10095,
+   "tokens_per_line": 10.08,
+   "arch_per_1k": 0.4,
+   "divine_caps_per_1k_lines": 2.0,
+   "end_rhyme": 0.014,
+   "question_lines": 0.046,
+   "ttr_2k": 0.374,
+   "n": 51
+  },
+  "homeland": {
+   "lines": 523,
+   "tokens": 4668,
+   "tokens_per_line": 8.93,
+   "arch_per_1k": 0.86,
+   "divine_caps_per_1k_lines": 1.9,
+   "end_rhyme": 0.0,
+   "question_lines": 0.036,
+   "ttr_2k": 0.397,
+   "n": 17
+  }
+ },
+ "mt": {
+  "songs": 67,
+  "lines": 779,
+  "ld": {
+   "lines": 779,
+   "tokens": 7301,
+   "tokens_per_line": 9.37,
+   "arch_per_1k": 0.55,
+   "divine_caps_per_1k_lines": 2.6,
+   "end_rhyme": 0.025,
+   "question_lines": 0.101,
+   "ttr_2k": 0.357
+  },
+  "mt": {
+   "lines": 779,
+   "tokens": 5377,
+   "tokens_per_line": 6.9,
+   "arch_per_1k": 0.19,
+   "divine_caps_per_1k_lines": 3.9,
+   "end_rhyme": 0.003,
+   "question_lines": 0.054,
+   "ttr_2k": 0.322
+  },
+  "devotion": {
+   "n": 2,
+   "ld": {
+    "lines": 24,
+    "tokens": 172,
+    "tokens_per_line": 7.17,
+    "arch_per_1k": 0.0,
+    "divine_caps_per_1k_lines": 0.0,
+    "end_rhyme": 0.0,
+    "question_lines": 0.083,
+    "ttr_2k": null
+   },
+   "mt": {
+    "lines": 24,
+    "tokens": 152,
+    "tokens_per_line": 6.33,
+    "arch_per_1k": 0.0,
+    "divine_caps_per_1k_lines": 0.0,
+    "end_rhyme": 0.0,
+    "question_lines": 0.0,
+    "ttr_2k": null
+   }
+  },
+  "love": {
+   "n": 29,
+   "ld": {
+    "lines": 338,
+    "tokens": 2954,
+    "tokens_per_line": 8.74,
+    "arch_per_1k": 0.68,
+    "divine_caps_per_1k_lines": 0.0,
+    "end_rhyme": 0.053,
+    "question_lines": 0.142,
+    "ttr_2k": 0.337
+   },
+   "mt": {
+    "lines": 338,
+    "tokens": 2253,
+    "tokens_per_line": 6.67,
+    "arch_per_1k": 0.44,
+    "divine_caps_per_1k_lines": 0.0,
+    "end_rhyme": 0.003,
+    "question_lines": 0.062,
+    "ttr_2k": 0.299
+   }
+  },
+  "m3": {
+   "ta_ld": 0.636,
+   "ta_ld_ci": [
+    0.628,
+    0.644
+   ],
+   "ta_mt": 0.733,
+   "ta_mt_ci": [
+    0.725,
+    0.74
+   ],
+   "ld_mt": 0.665,
+   "ld_closer": 0.181,
+   "align_ld": 0.782,
+   "align_mt": 0.935
+  }
+ }
+}

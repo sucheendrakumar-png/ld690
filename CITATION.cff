@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use LD-690, please cite it as below."
+title: "LD-690, a Parallel Corpus of Tamil Film Song with Poetic English Translations"
+type: dataset
+authors:
+  - family-names: Palaniappan
+    given-names: Sucheendra K.
+    email: Sucheendra.kumar@gmail.com
+    affiliation: LyricalDelights.com
+  - family-names: Ravindranath
+    given-names: Pradeep Anand
+    affiliation: LyricalDelights.com
+  - family-names: Sundaramuthy
+    given-names: Abitha
+    alias: Aadhirai
+    affiliation: LyricalDelights.com
+  - family-names: Ganesan
+    given-names: Keerthiga
+    affiliation: LyricalDelights.com
+repository-code: "https://github.com/sucheendrakumar-png/ld690"
+url: "https://www.lyricaldelights.com/song-map/"
+license: CC-BY-NC-SA-4.0
+date-released: 2026-11-26

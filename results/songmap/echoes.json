@@ -1,0 +1,101 @@
+{
+ "_how": "Hand-checked 2026-11-25 with bge-m3 (Tamil + English, centred). Candidates: the 18 closest pairs in meaning, 30+ years apart, different lyricists, each read in full. Kept only pairs that share a real theme or image; each note says what they share.",
+ "pairs": [
+  {
+   "a": 3014,
+   "b": 4280,
+   "note": "The same moment from both sides of the chariot: Krishna tells Arjuna not to fear killing, and fifty years later Arjuna asks Krishna why he was made to kill.",
+   "note_ta": "தேரின் இரு பக்கங்களிலிருந்தும் ஒரே தருணம்: கொல்ல அஞ்சாதே என்று அர்ஜுனனிடம் கிருஷ்ணன் சொல்கிறான்; ஐம்பது ஆண்டுகள் கழித்து, ஏன் என்னைக் கொல்லச் செய்தாய் என்று அர்ஜுனன் கிருஷ்ணனிடம் கேட்கிறான்."
+  },
+  {
+   "a": 35,
+   "b": 1075,
+   "note": "Nothing comes with you at the end: relatives stop at the house, the street, the grave; you leave with what you came with.",
+   "note_ta": "இறுதியில் எதுவும் உடன் வருவதில்லை: உறவுகள் வீட்டோடும் தெருவோடும் சுடுகாட்டோடும் நின்றுவிடுகின்றன; வந்தது போலவே போகிறோம்."
+  },
+  {
+   "a": 1137,
+   "b": 1222,
+   "note": "Mother and father as the gods you can see, and no temple greater than a mother.",
+   "note_ta": "கண்ணுக்குத் தெரியும் தெய்வங்களாக அம்மாவும் அப்பாவும்; தாயைவிடப் பெரிய கோயில் இல்லை."
+  },
+  {
+   "a": 3134,
+   "b": 6859,
+   "note": "Two songs to Kannamma, piling image on image for the beloved; the 2016 song even names Bharathi.",
+   "note_ta": "கண்ணம்மாவுக்கு இரண்டு பாடல்கள், காதலிக்காகப் படிமத்தின் மேல் படிமம் அடுக்குகின்றன; 2016 பாடல் பாரதியின் பெயரையே சொல்கிறது."
+  },
+  {
+   "a": 3202,
+   "b": 3441,
+   "note": "An argument across 46 years: the 1969 song promises truth will win; the 2015 villain's creed says only evil wins.",
+   "note_ta": "46 ஆண்டுகள் நீளும் ஒரு வாக்குவாதம்: உண்மை வெல்லும் என்று 1969 பாடல் உறுதி சொல்கிறது; 2015 வில்லனின் கொள்கையோ தீமை மட்டுமே வெல்லும் என்கிறது."
+  },
+  {
+   "a": 8226,
+   "b": 3444,
+   "note": "Hymns to Shiva that count out his forms and names: the one who became two, three, four, and the lord of all the worlds.",
+   "note_ta": "சிவனின் வடிவங்களையும் பெயர்களையும் எண்ணிச் சொல்லும் துதிகள்: இரண்டாய், மூன்றாய், நான்காய் ஆனவன், எல்லா உலகங்களுக்கும் தலைவன்."
+  },
+  {
+   "a": 8342,
+   "b": 2984,
+   "note": "God hidden inside everything, from the nothingness to the coconut's flesh, if only you learn to see him.",
+   "note_ta": "எல்லாவற்றுக்குள்ளும் மறைந்திருக்கும் இறைவன், வெறுமையிலிருந்து தேங்காயின் சதை வரை; பார்க்கக் கற்றுக்கொண்டால் போதும்."
+  },
+  {
+   "a": 122,
+   "b": 88,
+   "note": "Life as a passing trade: birth is income and death the expense; from the womb's door to the tomb's.",
+   "note_ta": "வாழ்க்கை ஒரு கடந்துபோகும் வணிகம்: பிறப்பு வரவு, இறப்பு செலவு; கருவறை வாசலிலிருந்து கல்லறை வாசல் வரை."
+  },
+  {
+   "a": 909,
+   "b": 3849,
+   "note": "The creator as an artist: God the poet whose poems are people, and Brahma who made a woman out of lightning.",
+   "note_ta": "படைப்பவன் ஒரு கலைஞன்: மனிதர்களையே கவிதைகளாக எழுதும் கவிஞன் இறைவன்; மின்னலிலிருந்து பெண்ணைப் படைத்த பிரம்மன்."
+  },
+  {
+   "a": 4806,
+   "b": 2277,
+   "note": "Fearless self-portraits: I bow to no one and live like the sky; I have no fear even if the sky falls on me.",
+   "note_ta": "அச்சமற்ற தன்னுருவங்கள்: யாருக்கும் தலைவணங்காமல் வானம் போல் வாழ்கிறேன்; வானமே இடிந்து விழுந்தாலும் அஞ்சேன்."
+  },
+  {
+   "a": 1422,
+   "b": 2813,
+   "note": "Thai is born: the harvest month and the Pongal and Bhogi rituals that welcome it.",
+   "note_ta": "தை பிறக்கிறது: அறுவடை மாதமும், அதை வரவேற்கும் பொங்கல், போகிச் சடங்குகளும்."
+  }
+ ],
+ "dropped": [
+  [
+   934,
+   166
+  ],
+  [
+   3117,
+   1165
+  ],
+  [
+   8473,
+   5771
+  ],
+  [
+   5547,
+   6372
+  ],
+  [
+   3001,
+   4300
+  ],
+  [
+   2298,
+   3797
+  ],
+  [
+   3674,
+   6013
+  ]
+ ]
+}

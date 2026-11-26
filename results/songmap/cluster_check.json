@@ -1,0 +1,21 @@
+{
+ "n": 371,
+ "k": 7,
+ "readings": {
+  "meaning": {
+   "poet": 0.1,
+   "mood": 0.29,
+   "era": 0.11
+  },
+  "wording": {
+   "poet": 0.13,
+   "mood": 0.17,
+   "era": 0.13
+  },
+  "english": {
+   "poet": 0.1,
+   "mood": 0.22,
+   "era": 0.1
+  }
+ }
+}

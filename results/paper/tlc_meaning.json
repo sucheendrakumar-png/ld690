@@ -1,0 +1,145 @@
+{
+ "n": 1399,
+ "per_poet": {
+  "Vairamuthu": 120,
+  "Kannadasan": 120,
+  "Vaali": 120,
+  "Na. Muthukumar": 120,
+  "Thamarai": 91,
+  "Madhan Karky": 120,
+  "Gangai Amaran": 120,
+  "Vivek": 73,
+  "Pulamaipithan": 84,
+  "Kabilan": 67,
+  "Pa.Vijay": 120,
+  "Yugabharathi": 120,
+  "Kamal Hassan": 23,
+  "Pazhani Bharathi": 101
+ },
+ "ami_tlc": {
+  "poet": 0.091,
+  "era": 0.094,
+  "n": 811
+ },
+ "ami_ld_tamil_only": {
+  "poet": 0.103,
+  "era": 0.118,
+  "n": 364
+ },
+ "tlc_nearest": {
+  "Vairamuthu": {
+   "nearest": "Thamarai",
+   "stable": 0.49
+  },
+  "Kannadasan": {
+   "nearest": "Pulamaipithan",
+   "stable": 0.49
+  },
+  "Vaali": {
+   "nearest": "Gangai Amaran",
+   "stable": 0.82
+  },
+  "Na. Muthukumar": {
+   "nearest": "Pa.Vijay",
+   "stable": 0.31
+  },
+  "Thamarai": {
+   "nearest": "Na. Muthukumar",
+   "stable": 0.69
+  },
+  "Madhan Karky": {
+   "nearest": "Pa.Vijay",
+   "stable": 0.69
+  },
+  "Gangai Amaran": {
+   "nearest": "Vaali",
+   "stable": 0.64
+  },
+  "Vivek": {
+   "nearest": "Madhan Karky",
+   "stable": 0.6
+  },
+  "Pulamaipithan": {
+   "nearest": "Gangai Amaran",
+   "stable": 0.7
+  },
+  "Kabilan": {
+   "nearest": "Vivek",
+   "stable": 0.25
+  },
+  "Pa.Vijay": {
+   "nearest": "Madhan Karky",
+   "stable": 0.82
+  },
+  "Yugabharathi": {
+   "nearest": "Vivek",
+   "stable": 0.85
+  },
+  "Kamal Hassan": {
+   "nearest": "Kannadasan",
+   "stable": 0.53
+  },
+  "Pazhani Bharathi": {
+   "nearest": "Thamarai",
+   "stable": 0.75
+  }
+ },
+ "ld_tamil_nearest": {
+  "Vairamuthu": {
+   "nearest": "Kabilan",
+   "stable": 0.24
+  },
+  "Kannadasan": {
+   "nearest": "Vaali",
+   "stable": 0.74
+  },
+  "Vaali": {
+   "nearest": "Kannadasan",
+   "stable": 0.59
+  },
+  "Na. Muthukumar": {
+   "nearest": "Thamarai",
+   "stable": 0.91
+  },
+  "Thamarai": {
+   "nearest": "Na. Muthukumar",
+   "stable": 0.84
+  },
+  "Madhan Karky": {
+   "nearest": "Thamarai",
+   "stable": 0.64
+  },
+  "Gangai Amaran": {
+   "nearest": "Yugabharathi",
+   "stable": 0.52
+  },
+  "Vivek": {
+   "nearest": "Madhan Karky",
+   "stable": 0.63
+  },
+  "Pulamaipithan": {
+   "nearest": "Vaali",
+   "stable": 0.34
+  },
+  "Kabilan": {
+   "nearest": "Na. Muthukumar",
+   "stable": 0.38
+  },
+  "Pa.Vijay": {
+   "nearest": "Madhan Karky",
+   "stable": 0.18
+  },
+  "Yugabharathi": {
+   "nearest": "Kabilan",
+   "stable": 0.3
+  },
+  "Kamal haasan": {
+   "nearest": "Kannadasan",
+   "stable": 0.43
+  },
+  "Pazhani bharati": {
+   "nearest": "Na. Muthukumar",
+   "stable": 0.53
+  }
+ }
+}

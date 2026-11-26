@@ -1,0 +1,12 @@
+data/posts.json
+data/tags.json
+data/categories.json
+data/songmap/
+paper/ext/
+paper/*.aux
+paper/*.log
+paper/*.blg
+paper/*.out
+paper/*.bbl
+paper/arxiv-upload.zip
+__pycache__/

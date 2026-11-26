@@ -1,0 +1,691 @@
+id,lyricist,year,tamil_lines,tamil_tokens,uses_nee,mean_word_len,style_guess,style_confidence,style_held_out,style_x,style_y,meaning_x,meaning_y,theme
+9019,Pambatti Siddhar,1954,20,64,0,7.594,Subramanya Bharathi,0.96,0,0.8227,0.7748,0.2422,0.1237,"Thathuvam: God, money and man"
+8860,Vignesh Ramakrishna,2023,28,49,1,5.673,Madhan Karky,0.84,0,0.6038,0.1474,0.5286,0.7292,Falling in love
+8836,Kudhambai,,126,254,0,8.378,Subramanya Bharathi,0.84,0,0.7803,0.7334,0.2705,0.1332,"Thathuvam: God, money and man"
+8828,Pattinathar,1962,68,251,0,6.633,Subramanya Bharathi,0.43,0,0.4881,0.5931,0.7867,0.1697,Bharathi's prose poems
+8823,Karthik Netha,2020,80,198,0,7.247,Na.Muthukumar,0.51,0,0.5242,0.2293,0.3139,0.5343,"Flowers, breeze and music"
+8812,Vivek,2022,56,141,0,6.348,Thamarai,0.43,0,0.5523,0.406,0.4755,0.9096,Love and longing
+8806,Yugabharathi,2024,49,127,1,5.969,Vaali,0.49,0,0.2858,0.4842,0.2124,0.696,"Flowers, breeze and music"
+8793,Vairamuthu,1999,54,98,1,7.01,Vairamuthu,0.89,1,0.1225,0.4479,0.8422,0.4605,"Tamil, land and mother tongue"
+8786,Kannadasan,1969,20,71,0,5.887,Kannadasan,0.99,1,0.4715,0.9243,0.4267,0.046,"Thathuvam: God, money and man"
+8769,Vaali,1984,36,86,1,6.116,Vaali,0.86,1,0.1461,0.7124,0.9299,0.6249,Kannamma: teasing and tenderness
+8745,Ilayaraja,2024,46,123,1,6.52,Vairamuthu,0.67,0,0.1619,0.3829,0.1747,0.7783,"Flowers, breeze and music"
+8739,Kannadasan,1974,36,102,1,7.078,Kannadasan,0.86,1,0.4606,0.8926,0.2834,0.1868,"Thathuvam: God, money and man"
+8730,Gangai Amaran,1989,34,94,0,6.383,Vaali,0.46,0,0.3195,0.6558,0.6526,0.7334,Love and longing
+8725,Kannadasan,1963,27,67,0,7.91,Kannadasan,0.8,1,0.4752,0.8476,0.3344,0.0926,"Thathuvam: God, money and man"
+8718,Kannadasan,1966,56,114,0,7.491,Kannadasan,1.0,1,0.4985,0.9357,0.3251,0.0336,"Thathuvam: God, money and man"
+8710,Kannadasan,1976,22,63,1,6.857,Kannadasan,0.93,1,0.456,0.8953,0.5595,0.284,"Krishna, Shiva and the divine"
+8679,Arivumathi,1991,34,115,1,5.861,Vairamuthu,0.42,0,0.2295,0.5371,0.7762,0.8934,Love and longing
+8674,Karthik Netha,2018,25,59,0,6.102,Madhan Karky,0.61,0,0.6137,0.268,0.4829,0.9286,Love and longing
+8670,Uma devi,2018,30,120,1,5.617,Vairamuthu,0.8,0,0.1649,0.3807,0.3227,0.8552,Love and longing
+8685,Vignesh Shivan,2024,44,96,1,5.875,Vairamuthu,0.53,0,0.261,0.5566,0.5757,0.4598,"Tamil, land and mother tongue"
+8664,Uma devi,2018,20,59,1,6.356,Na.Muthukumar,0.5,0,0.316,0.2574,0.4824,0.8233,Love and longing
+8658,Uma devi,2018,32,56,1,6.089,Madhan Karky,0.55,0,0.565,0.2961,0.4741,0.7804,Falling in love
+8649,Piraisoodan,1991,29,82,1,6.268,Vaali,0.38,0,0.3536,0.6218,0.878,0.4709,Kannamma: teasing and tenderness
+8642,Kannadasan,1965,22,73,0,6.932,Vairamuthu,0.59,1,0.285,0.495,0.417,0.4591,"Tamil, land and mother tongue"
+8639,Kannadasan,1962,29,118,1,5.831,Kannadasan,0.97,1,0.4839,0.9631,0.7942,0.826,Love and longing
+8629,Kannadasan,1965,39,80,1,7.213,Kannadasan,0.68,1,0.4459,0.7975,0.8284,0.3143,"Tamil, land and mother tongue"
+8622,Kannadasan,1965,16,70,1,6.286,Kannadasan,0.89,1,0.4972,0.8982,0.8018,0.8992,Love and longing
+8612,Vairamuthu,2000,29,129,1,5.674,Vairamuthu,0.6,1,0.2282,0.3426,0.5035,0.8976,Love and longing
+8607,Kannadasan,,23,90,0,6.456,Vaali,0.76,1,0.2228,0.7552,0.2303,0.169,"Thathuvam: God, money and man"
+8589,Snehan,2003,33,154,1,6.825,Vaali,0.86,0,0.2066,0.6919,0.9158,0.4897,Kannamma: teasing and tenderness
+8579,Gangai Amaran,1989,24,109,0,6.606,Vaali,0.52,0,0.1778,0.6178,0.8284,0.2683,"Krishna, Shiva and the divine"
+8571,Thamarai,2008,30,110,1,6.027,Thamarai,0.85,1,0.8316,0.3628,0.6972,0.827,Falling in love
+8564,Thamarai,2007,34,157,1,5.197,Vairamuthu,0.44,1,0.424,0.3473,0.4614,0.8467,Love and longing
+8539,Vignesh Shivan,2023,55,92,1,6.141,Vairamuthu,0.46,0,0.3504,0.506,0.5446,0.3765,"Tamil, land and mother tongue"
+8517,Kannadasan,1973,27,67,0,6.716,Kannadasan,0.99,1,0.471,0.9157,0.3288,0.0488,"Thathuvam: God, money and man"
+8508,Kannadasan,1981,26,75,0,7.56,Kannadasan,0.96,1,0.5013,0.8864,0.3852,0.227,Courage and the will to win
+8501,Kannadasan,1961,18,69,0,5.29,Kannadasan,0.98,1,0.4855,0.9216,0.3845,0.0865,"Thathuvam: God, money and man"
+8481,Kannadasan,,26,79,0,5.861,Kannadasan,0.8,1,0.5538,0.8657,0.3107,0.8639,Love and longing
+8473,Kannadasan,1966,30,87,0,5.713,Madhan Karky,0.42,1,0.5764,0.4334,0.6135,0.9267,Love and longing
+8459,Kannadasan,1974,23,95,0,6.663,Kannadasan,0.58,1,0.4479,0.7562,0.1294,0.1749,"Thathuvam: God, money and man"
+8431,Thamarai,2019,44,93,1,6.409,Na.Muthukumar,0.82,1,0.3451,0.1498,0.3789,0.6813,"Flowers, breeze and music"
+8436,Madhan Karky,2021,41,80,0,5.75,Vairamuthu,0.61,1,0.2822,0.3753,0.4768,0.5984,Kannamma: teasing and tenderness
+8411,Kannadasan,1962,19,59,0,7.373,Kannadasan,0.97,1,0.4944,0.9004,0.7599,0.9599,Love and longing
+8394,GKB,2017,56,87,1,5.563,Thamarai,0.75,0,0.7484,0.3838,0.6655,0.7405,Falling in love
+8384,Kannadasan,1961,16,52,0,5.962,Kannadasan,0.99,1,0.5224,0.9399,0.7354,0.2991,"Thathuvam: God, money and man"
+8369,Madhan Karky,2022,29,77,0,7.338,Vairamuthu,0.5,1,0.3609,0.587,0.2701,0.699,"Flowers, breeze and music"
+8355,Kannadasan,1958,24,73,0,7.397,Subramanya Bharathi,0.56,1,0.5382,0.6309,0.6625,0.6126,Kannamma: teasing and tenderness
+8342,Kannadasan,1962,64,195,0,8.436,Kannadasan,0.78,1,0.5538,0.9008,0.3938,0.0552,"Thathuvam: God, money and man"
+8098,Yugabharathi,2022,32,47,1,5.681,Vaali,0.59,0,0.1862,0.6911,0.2328,0.4805,"Flowers, breeze and music"
+8300,Kannadasan,1970,22,78,1,6.833,Kannadasan,0.92,1,0.4459,0.8645,0.4025,0.0781,"Thathuvam: God, money and man"
+8293,Vaali,1968,16,66,0,6.697,Kannadasan,0.93,1,0.4909,0.8957,0.3042,0.0376,"Thathuvam: God, money and man"
+8239,Kannadasan,1965,26,71,1,5.394,Kannadasan,0.71,1,0.4253,0.8889,0.745,0.7718,Love and longing
+8232,Kannadasan,1977,30,75,1,6.16,Vairamuthu,0.64,1,0.2007,0.5081,0.6901,0.6942,Falling in love
+8226,Kannadasan,1965,22,78,0,7.846,Kannadasan,0.62,1,0.5626,0.8427,0.7771,0.1719,"Krishna, Shiva and the divine"
+8206,Kannadasan,1949,20,53,1,6.943,Kannadasan,0.68,1,0.4958,0.807,0.3466,0.3558,Courage and the will to win
+8184,Madhan Karky,2022,26,62,0,5.161,Thamarai,0.29,1,0.5716,0.5054,0.7975,0.6928,Falling in love
+8162,Gangai Amaran,1986,48,124,1,6.097,Vaali,0.65,0,0.2379,0.7254,0.5728,0.6043,Kannamma: teasing and tenderness
+8138,Thamarai,2016,20,66,0,5.955,Vaali,0.75,1,0.2582,0.6831,0.2469,0.5974,"Flowers, breeze and music"
+8127,Vishnu Edvan,2022,20,45,0,6.489,Vairamuthu,0.38,0,0.4135,0.3836,0.3033,0.3735,Courage and the will to win
+8118,Mu. Metha,2001,39,133,1,6.647,Na.Muthukumar,0.56,0,0.3802,0.3601,0.1704,0.7421,"Flowers, breeze and music"
+8034,Vairamuthu,2018,46,85,1,5.212,Madhan Karky,0.38,1,0.5846,0.4243,0.9111,0.7147,Falling in love
+7404,Pulamaipithan,1976,18,104,0,6.74,Kannadasan,0.5,0,0.4953,0.7472,0.5969,0.2505,"Tamil, land and mother tongue"
+8031,Aaryan Dinesh Kanagaratnam,2013,22,68,1,5.559,Kannadasan,0.35,0,0.2899,0.6473,0.4979,0.2925,Courage and the will to win
+8087,Thamarai,2022,45,148,1,5.561,Thamarai,0.62,1,0.6134,0.4726,0.6424,0.764,Falling in love
+8038,Thamarai,2022,117,296,1,7.176,Vairamuthu,0.35,1,0.3988,0.4176,0.6552,0.4082,"Tamil, land and mother tongue"
+8025,Karthik Netha,2021,48,139,1,5.964,Thamarai,0.48,0,0.5537,0.3285,0.3526,0.6485,"Flowers, breeze and music"
+7896,Vivek,2022,53,215,0,6.26,Vaali,0.59,0,0.2582,0.5743,0.8854,0.4001,"Tamil, land and mother tongue"
+4282,Vairamuthu,2008,50,125,0,6.256,Vairamuthu,0.8,1,0.1965,0.4931,0.5605,0.5848,Kannamma: teasing and tenderness
+8007,Vairamuthu,,46,77,1,6.805,Vairamuthu,0.55,1,0.2783,0.4193,0.587,0.9431,Love and longing
+7478,Madhan Karky,2018,38,136,1,5.978,Madhan Karky,0.72,1,0.5669,0.1946,0.9471,0.6502,Kannamma: teasing and tenderness
+7971,Madhan Karky,2018,45,118,1,6.602,Madhan Karky,0.93,1,0.6721,0.1184,0.9168,0.6142,"Tamil, land and mother tongue"
+7366,Vairamuthu,2018,60,104,0,5.702,Vaali,0.31,1,0.3196,0.5645,0.2488,0.1967,"Thathuvam: God, money and man"
+7542,Thamarai,,48,134,1,6.007,Thamarai,0.51,1,0.65,0.2891,0.5937,0.9229,Love and longing
+7131,Madhan Karky,2012,33,116,1,6.319,Thamarai,0.43,1,0.5563,0.3667,0.5934,0.9194,Love and longing
+6593,Vairamuthu,1982,44,60,0,6.5,Vairamuthu,0.75,1,0.2386,0.4406,0.3656,0.7305,"Flowers, breeze and music"
+5760,Aadhirai,,24,74,0,7.176,Vairamuthu,0.73,0,0.1986,0.4352,0.2923,0.7185,"Flowers, breeze and music"
+6390,Subramanya Bharathi,,18,69,0,8.043,Subramanya Bharathi,1.0,1,0.8285,0.771,0.7258,0.0861,Bharathi's prose poems
+7826,Subramanya Bharathi,,24,93,0,7.581,Subramanya Bharathi,0.99,1,0.8271,0.7631,0.7122,0.08,Bharathi's prose poems
+7870,Vignesh Shivan,2022,38,92,1,5.38,Vairamuthu,0.35,0,0.2996,0.5679,0.5871,0.8393,Love and longing
+6859,Yugabharathi,2016,17,76,1,6.513,Vaali,0.52,0,0.3531,0.6069,0.805,0.592,Kannamma: teasing and tenderness
+7783,Raju Murugan,2021,59,86,1,5.64,Vaali,0.67,0,0.2677,0.637,0.2329,0.5561,"Flowers, breeze and music"
+7751,Mu. Metha,1987,24,104,1,5.731,Vairamuthu,0.33,0,0.3944,0.485,0.5634,0.7165,Falling in love
+7490,Karthik Netha,2019,32,90,0,6.3,Na.Muthukumar,0.5,0,0.4436,0.2357,0.545,0.7914,Love and longing
+7392,Kabilan,2018,34,109,1,5.807,Thamarai,0.39,0,0.5583,0.3501,0.5963,0.7745,Falling in love
+7433,Vivek,2018,22,66,1,5.515,Vaali,0.3,0,0.296,0.4591,0.895,0.7806,Falling in love
+7361,Vairamuthu,2018,28,81,1,6.778,Vairamuthu,0.42,1,0.4494,0.3896,0.0248,0.4002,How to live
+7256,Thamarai,,43,164,1,6.183,Thamarai,0.65,1,0.7142,0.317,0.6235,0.8695,Love and longing
+7255,Madhan Karky,,27,105,1,5.686,Thamarai,0.56,1,0.6698,0.3759,0.7594,0.9222,Love and longing
+7343,Karthik Netha,2018,41,149,0,6.074,Madhan Karky,0.52,0,0.5617,0.1159,0.28,0.5383,"Flowers, breeze and music"
+7337,Vairamuthu,2018,32,96,1,6.219,Vairamuthu,0.56,1,0.2119,0.424,0.0381,0.4312,How to live
+7305,Karthik Netha,2018,106,230,1,6.087,Thamarai,0.61,0,0.6603,0.3266,0.7006,0.8497,Love and longing
+7314,Vairamuthu,2018,50,174,1,6.506,Vairamuthu,0.92,1,0.1235,0.3921,0.3295,0.6995,"Flowers, breeze and music"
+7295,Karthik Netha,2018,12,28,1,5.5,Vairamuthu,0.37,0,0.2826,0.6028,0.5468,0.7159,Falling in love
+7274,Karunanidhi,1952,153,538,1,7.612,Subramanya Bharathi,0.63,0,0.6509,0.6773,0.4473,0.1811,"Thathuvam: God, money and man"
+7232,Kamal haasan,2018,34,78,1,5.769,Thamarai,0.34,0,0.6036,0.5792,0.3509,0.5325,"Flowers, breeze and music"
+7236,Vaali,1982,29,95,1,6.337,Vairamuthu,0.36,1,0.4098,0.3557,0.3191,0.7152,"Flowers, breeze and music"
+7223,Ananta Sriram,2018,0,0,0,,Subramanya Bharathi,0.55,0,0.6712,0.7724,0.5134,0.8882,Love and longing
+7175,Arun Prabu Purushothaman,2017,23,72,1,6.194,Na.Muthukumar,0.37,0,0.4045,0.3388,0.308,0.8218,"Flowers, breeze and music"
+7170,Madhan Karky,2018,9,21,1,6.048,Madhan Karky,0.6,1,0.5863,0.3198,0.4943,0.9259,Love and longing
+7154,Kannadasan,1981,19,63,0,7.476,Kannadasan,0.65,1,0.539,0.8718,0.7981,0.6414,Kannamma: teasing and tenderness
+6672,Vairamuthu,2014,27,71,0,7.268,Vairamuthu,0.68,1,0.2405,0.4754,0.3524,0.8468,"Flowers, breeze and music"
+7090,Madhan Karky,2017,61,92,1,6.239,Madhan Karky,0.39,1,0.5771,0.3063,0.4918,0.6555,Falling in love
+7085,Thamarai,2018,50,160,1,6.031,Thamarai,0.51,1,0.7591,0.3365,0.8412,0.8393,Falling in love
+6595,Thenmozhi,,20,113,1,6.504,Madhan Karky,0.44,0,0.4943,0.2069,0.4074,0.5592,"Flowers, breeze and music"
+6303,Na. Muthukumar,2005,41,123,1,6.309,Na.Muthukumar,0.91,1,0.3428,0.1141,0.6237,0.8923,Love and longing
+6900,Madhan Karky,,18,50,0,6.44,Vaali,0.3,1,0.3296,0.6299,0.3921,0.9539,Love and longing
+6597,Pa.Vijay,,26,122,1,5.967,Na.Muthukumar,0.32,0,0.366,0.3368,0.4908,0.4954,"Tamil, land and mother tongue"
+6865,Vairamuthu,,33,144,0,6.132,Vairamuthu,0.76,1,0.1582,0.3915,0.4128,0.7436,"Flowers, breeze and music"
+6977,Na. Muthukumar,2015,19,72,0,6.833,Vairamuthu,0.35,1,0.4395,0.3719,0.0714,0.3766,How to live
+6739,Vairamuthu,2001,25,86,1,7.0,Vairamuthu,0.91,1,0.1091,0.3665,0.6705,0.8473,Love and longing
+6997,Snehan,2005,24,103,1,6.553,Vaali,0.69,0,0.1946,0.6229,0.3353,0.4796,"Thathuvam: God, money and man"
+6984,Bharathidasan,,47,149,0,6.711,Subramanya Bharathi,0.88,0,0.7472,0.7372,0.7104,0.4406,"Tamil, land and mother tongue"
+6046,Pa.Vijay,1999,17,99,1,7.283,Vairamuthu,0.46,0,0.4293,0.3973,0.5274,0.8199,Love and longing
+6959,Dhanush,2017,19,61,1,6.59,Vairamuthu,0.53,0,0.3,0.4278,0.8235,0.6407,Kannamma: teasing and tenderness
+5935,Vairamuthu,2001,27,115,1,6.4,Vairamuthu,0.9,1,0.1091,0.417,0.4356,0.0224,"Thathuvam: God, money and man"
+6724,Thenmozhi,2005,24,124,1,6.121,Vairamuthu,0.88,0,0.1511,0.3651,0.5796,0.9057,Love and longing
+6858,Vairamuthu,2000,22,125,1,6.904,Vairamuthu,0.52,1,0.4374,0.3929,0.4565,0.7902,Love and longing
+6856,Pulamaipithan,1990,26,70,1,5.486,Vaali,0.5,0,0.3087,0.5557,0.7134,0.6098,Kannamma: teasing and tenderness
+6879,Na. Muthukumar,,28,100,1,6.81,Na.Muthukumar,0.7,1,0.4445,0.1714,0.543,0.8573,Love and longing
+6871,Na. Muthukumar,2013,4,20,1,4.5,Madhan Karky,0.86,1,0.642,0.156,0.7933,0.7153,Falling in love
+6870,Na. Muthukumar,2013,10,36,1,5.778,Kannadasan,0.33,1,0.5709,0.5059,0.2474,0.5443,Love and longing
+6753,Vairamuthu,2007,26,90,1,5.811,Vairamuthu,0.37,1,0.4113,0.4354,0.8982,0.8228,Falling in love
+6825,Thamarai,,34,141,0,6.418,Thamarai,0.77,1,0.7506,0.455,0.7273,0.6074,Kannamma: teasing and tenderness
+6758,Vairamuthu,2017,21,60,1,6.067,Vairamuthu,0.38,1,0.2632,0.496,0.4249,0.8928,Love and longing
+6740,Vairamuthu,2017,33,93,1,6.269,Vairamuthu,0.82,1,0.1676,0.3775,0.7378,0.7238,Falling in love
+6707,Vairamuthu,2010,47,150,1,5.787,Vairamuthu,0.79,1,0.1307,0.4811,0.6073,0.1704,"Krishna, Shiva and the divine"
+6699,Vairamuthu,1994,31,136,1,6.875,Vairamuthu,0.91,1,0.1478,0.3978,0.6793,0.72,Falling in love
+6680,Vairamuthu,1994,22,91,1,7.593,Vairamuthu,0.68,1,0.2085,0.3828,0.2989,0.7082,"Flowers, breeze and music"
+6659,Vairamuthu,2017,26,49,0,7.143,Kannadasan,0.76,1,0.468,0.8331,0.7303,0.8222,Falling in love
+6638,Madhan Karky,2017,44,93,1,4.892,Na.Muthukumar,0.62,1,0.4134,0.1697,0.9063,0.7723,Falling in love
+6633,Viveka,2015,20,110,1,6.0,Vaali,0.67,0,0.2253,0.6308,0.995,0.5709,Kannamma: teasing and tenderness
+6583,Na. Muthukumar,2010,36,152,0,6.257,Na.Muthukumar,0.61,1,0.3895,0.2789,0.3499,0.6936,"Flowers, breeze and music"
+6585,Vairamuthu,2002,33,125,1,6.168,Vairamuthu,0.59,1,0.2708,0.587,0.4718,0.3278,Courage and the will to win
+6574,Kalai Kumar,2015,12,44,1,6.545,Vairamuthu,0.4,0,0.3914,0.3231,0.6292,0.8867,Love and longing
+6564,Vairamuthu,2017,25,97,0,5.598,Vairamuthu,0.72,1,0.1472,0.3991,0.6152,0.6365,Falling in love
+6557,Vaira Bharathi,2012,13,72,1,5.153,Vairamuthu,0.47,0,0.3227,0.372,0.6097,0.6364,Falling in love
+6545,Snehan,2017,33,160,0,5.656,Na.Muthukumar,0.78,0,0.3554,0.2566,0.0966,0.3872,How to live
+6540,Thamarai,2017,39,104,1,6.577,Thamarai,0.74,1,0.7382,0.3856,0.5083,0.8493,Love and longing
+6521,Vairamuthu,1992,17,88,1,6.398,Kannadasan,0.49,1,0.3189,0.6348,0.5824,0.2575,"Krishna, Shiva and the divine"
+6510,Vairamuthu,1993,27,136,1,7.154,Vairamuthu,0.97,1,0.0905,0.4092,0.97,0.5848,Kannamma: teasing and tenderness
+6501,Thamarai,2009,34,141,1,5.816,Thamarai,0.84,1,0.8302,0.3417,0.4455,0.908,Love and longing
+6492,Vaali,1972,33,122,0,6.574,Kannadasan,0.49,1,0.4493,0.8041,0.7525,0.3753,"Tamil, land and mother tongue"
+6486,Na. Muthukumar,2017,26,89,1,5.596,Na.Muthukumar,0.85,1,0.353,0.1559,0.2984,0.6596,"Flowers, breeze and music"
+6479,Arunraja Kamaraj,2017,41,66,0,5.485,Vaali,0.45,0,0.321,0.7425,0.6025,0.2545,"Krishna, Shiva and the divine"
+6469,Vairamuthu,2003,43,139,1,6.266,Vairamuthu,0.89,1,0.1189,0.3867,0.7364,0.8319,Love and longing
+6456,Pazhani bharati,1997,20,85,1,6.565,Na.Muthukumar,0.62,0,0.3487,0.2163,0.5514,0.7446,Love and longing
+6450,Kannadasan,1966,32,120,0,7.158,Kannadasan,0.98,1,0.518,0.9473,0.7271,0.2321,"Krishna, Shiva and the divine"
+6445,Selvaraghavan,2017,35,79,1,5.215,Vairamuthu,0.7,0,0.1828,0.4214,0.7452,0.864,Love and longing
+6437,Kannadasan,1980,18,83,1,5.819,Vairamuthu,0.45,1,0.4336,0.4994,0.5472,0.8937,Love and longing
+6413,Vairamuthu,,99,226,0,7.473,Kannadasan,0.52,1,0.4872,0.7497,0.4613,0.1846,"Thathuvam: God, money and man"
+6392,Maanikavasagar,2016,14,67,0,5.552,Kannadasan,0.66,0,0.6007,0.8349,0.7558,0.201,"Krishna, Shiva and the divine"
+6380,Kavi Naayagan Yuwaji,2016,42,146,1,6.336,Thamarai,0.96,0,0.9032,0.384,0.8466,0.8565,Love and longing
+6372,Charukesh Sekar,2014,19,79,1,6.975,Vaali,0.36,0,0.3823,0.5161,0.8585,0.6616,Kannamma: teasing and tenderness
+6356,Sofia Ashraf,2013,26,86,1,6.605,Vaali,0.54,0,0.2604,0.6359,0.8928,0.7156,Falling in love
+6348,Lalithanand,2016,30,127,1,5.063,Thamarai,0.82,0,0.8256,0.3722,0.8452,0.7351,Falling in love
+6341,Vairamuthu,1983,38,58,1,5.948,Vairamuthu,0.73,1,0.1545,0.3898,0.3027,0.8556,Love and longing
+6319,Vivek,2016,23,107,1,6.701,Vairamuthu,0.45,0,0.2648,0.3986,0.9764,0.6451,Kannamma: teasing and tenderness
+5729,Kannadasan,1962,16,60,1,7.183,Kannadasan,0.72,1,0.5548,0.8305,0.5807,0.8636,Love and longing
+5491,Na. Muthukumar,2013,23,88,0,5.83,Madhan Karky,0.32,1,0.3987,0.3585,0.2498,0.63,"Flowers, breeze and music"
+6052,Vairamuthu,1998,26,111,1,5.667,Vairamuthu,0.76,1,0.212,0.4041,0.5688,0.6658,Falling in love
+6264,Dhilip Varman,,22,77,1,6.0,Thamarai,0.59,0,0.6662,0.3196,0.5501,0.9762,Love and longing
+6219,Vaali,2011,40,154,1,6.584,Vairamuthu,0.34,1,0.3391,0.4316,0.4985,0.9586,Love and longing
+6207,Kannadasan,1978,21,67,0,6.881,Kannadasan,0.72,1,0.4315,0.8586,0.727,0.3584,"Tamil, land and mother tongue"
+6201,Vivek,2016,43,114,1,5.947,Vairamuthu,0.86,0,0.1568,0.3644,0.9634,0.6953,Kannamma: teasing and tenderness
+5022,Arivumathi,1998,20,116,1,5.81,Vaali,0.47,0,0.3043,0.7805,0.7646,0.5353,Kannamma: teasing and tenderness
+4270,Viveka,2015,32,95,1,5.432,Vairamuthu,0.74,0,0.2089,0.4106,0.8681,0.7201,Falling in love
+5499,Kannadasan,1963,13,60,1,6.583,Kannadasan,0.95,1,0.4734,0.9192,0.8314,0.5521,Kannamma: teasing and tenderness
+6092,Vairamuthu,1996,25,141,1,5.716,Vairamuthu,0.97,1,0.0663,0.3811,0.6256,0.7257,Falling in love
+6120,Subramanya Bharathi,,25,85,0,8.012,Subramanya Bharathi,1.0,1,0.8647,0.7532,0.7393,0.1197,Bharathi's prose poems
+6142,Subramanya Bharathi,,31,124,0,7.984,Subramanya Bharathi,0.98,1,0.8469,0.7962,0.754,0.0328,Bharathi's prose poems
+6123,Gangai Amaran,1986,21,102,0,5.882,Vaali,0.94,0,0.1885,0.7756,0.2136,0.7636,"Flowers, breeze and music"
+6095,Vairamuthu,,26,78,1,7.038,Vairamuthu,0.96,1,0.1347,0.4019,0.4989,0.801,Love and longing
+6105,Snehan,2005,24,97,1,6.763,Vairamuthu,0.47,0,0.3651,0.3597,0.6027,0.9307,Love and longing
+6097,Kabilan,2014,28,142,1,6.092,Thamarai,0.79,0,0.7765,0.3987,0.693,0.9422,Love and longing
+6089,Subramanya Bharathi,,29,101,0,8.317,Subramanya Bharathi,1.0,1,0.8562,0.7513,0.7858,0.093,Bharathi's prose poems
+6067,Panju Arunachalam,1980,42,141,0,7.589,Vaali,0.57,0,0.2955,0.7061,0.7874,0.3593,"Tamil, land and mother tongue"
+5411,Vairamuthu,,29,118,1,6.678,Vairamuthu,0.72,1,0.2025,0.373,0.7835,0.9417,Love and longing
+6061,Subramanya Bharathi,,18,69,0,6.942,Subramanya Bharathi,0.98,1,0.8362,0.7777,0.8014,0.0811,Bharathi's prose poems
+5366,Kannadasan,1966,12,68,1,5.647,Kannadasan,0.68,1,0.4698,0.7652,0.6279,0.7808,Love and longing
+6028,Vaali,1997,22,91,1,6.099,Na.Muthukumar,0.52,1,0.4028,0.3028,0.6117,0.96,Love and longing
+6026,Subramanya Bharathi,,28,101,0,7.634,Subramanya Bharathi,1.0,1,0.8498,0.8077,0.8169,0.0694,Bharathi's prose poems
+6013,Vaali,1999,23,120,1,6.25,Vairamuthu,0.43,1,0.2482,0.4348,0.4506,0.1568,"Thathuvam: God, money and man"
+6006,Kannadasan,1974,39,64,1,6.188,Kannadasan,0.72,1,0.381,0.8188,0.7614,0.9051,Love and longing
+5961,Na. Muthukumar,2013,34,115,1,5.635,Na.Muthukumar,0.75,1,0.2256,0.1575,0.4716,0.7237,"Flowers, breeze and music"
+6003,Maanikavasagar,,9,40,1,5.925,Subramanya Bharathi,0.85,0,0.8019,0.7904,0.7445,0.1874,"Krishna, Shiva and the divine"
+5982,Subramanya Bharathi,,40,151,0,7.477,Subramanya Bharathi,1.0,1,0.8367,0.7375,0.7945,0.065,Bharathi's prose poems
+5983,Viveka,2016,8,36,0,5.528,Vairamuthu,0.35,0,0.3395,0.4333,0.5937,0.7423,Falling in love
+5959,Vaali,1993,23,123,1,6.463,Vairamuthu,0.84,1,0.1378,0.5155,0.2564,0.1165,"Thathuvam: God, money and man"
+5966,Na. Muthukumar,2004,27,132,0,6.75,Vairamuthu,0.53,1,0.2442,0.3285,0.6304,0.8252,Love and longing
+5945,Kabilan,,28,88,0,6.034,Na.Muthukumar,0.76,0,0.2923,0.1713,0.3757,0.8643,Love and longing
+5501,Subramanya Bharathi,1960,20,74,0,7.581,Kannadasan,0.44,1,0.5955,0.8011,0.7258,0.2501,"Krishna, Shiva and the divine"
+5421,Subramanya Bharathi,,31,104,0,7.856,Subramanya Bharathi,1.0,1,0.8422,0.7485,0.9009,0.0782,Bharathi's prose poems
+5930,Vaali,2008,26,119,0,6.504,Vairamuthu,0.44,1,0.2593,0.5923,0.3712,0.1583,"Thathuvam: God, money and man"
+5898,P. Vetriselvan,2014,26,88,1,5.432,Na.Muthukumar,0.73,0,0.3503,0.2196,0.4174,0.8013,Love and longing
+5892,Kannadasan,1962,20,80,0,6.175,Kannadasan,0.9,1,0.4796,0.887,0.53,0.6878,"Flowers, breeze and music"
+5759,Madhan Karky,2015,45,138,0,5.79,Vairamuthu,0.47,1,0.3417,0.4197,0.7532,0.6988,Falling in love
+5858,Vairamuthu,1995,28,117,0,7.658,Vaali,0.56,1,0.1561,0.6161,0.9376,0.4653,Kannamma: teasing and tenderness
+5854,Soundara Rajan,2016,20,64,0,5.859,Vairamuthu,0.48,0,0.2387,0.488,0.8877,0.7994,Falling in love
+5862,Thamarai,2016,40,175,1,5.949,Na.Muthukumar,0.49,1,0.5877,0.2614,0.5539,0.793,Falling in love
+5844,Subramanya Bharathi,,34,97,0,6.969,Subramanya Bharathi,0.46,1,0.4979,0.7602,0.664,0.3372,"Tamil, land and mother tongue"
+5748,Vaali,1964,17,68,0,6.603,Kannadasan,0.34,1,0.5715,0.57,0.6721,0.6466,Falling in love
+5839,Vaali,1988,30,119,1,5.286,Vaali,0.92,1,0.1801,0.7742,0.7761,0.4878,Kannamma: teasing and tenderness
+5419,Subramanya Bharathi,,26,78,0,8.41,Subramanya Bharathi,1.0,1,0.844,0.7473,0.8692,0.0671,Bharathi's prose poems
+5824,Na. Muthukumar,2009,38,142,1,6.366,Vairamuthu,0.48,1,0.3185,0.363,0.5532,0.64,Falling in love
+5817,Na. Muthukumar,2011,40,132,1,5.939,Na.Muthukumar,0.47,1,0.5709,0.2081,0.563,0.8503,Love and longing
+5811,Arunraja Kamaraj,2013,14,50,0,6.84,Thamarai,0.82,0,0.8389,0.3983,0.5242,0.7649,Falling in love
+5792,Na. Muthukumar,2016,23,115,1,6.009,Vaali,0.92,1,0.2315,0.7296,0.6267,0.8351,Falling in love
+5786,Subramanya Bharathi,2016,16,52,0,7.769,Subramanya Bharathi,1.0,1,0.8329,0.7492,0.6182,0.1486,"Krishna, Shiva and the divine"
+5782,Subramanya Bharathi,,28,94,0,7.809,Subramanya Bharathi,1.0,1,0.8892,0.7675,0.6129,0.1736,"Krishna, Shiva and the divine"
+5771,Madhan Karky,2016,28,117,1,5.855,Thamarai,0.39,1,0.701,0.2933,0.5492,0.9606,Love and longing
+5764,Pa.Vijay,2003,25,104,0,5.981,Vaali,0.38,0,0.2357,0.4106,0.0949,0.3712,How to live
+5418,Subramanya Bharathi,,34,132,0,7.712,Subramanya Bharathi,1.0,1,0.8324,0.7903,0.8937,0.0791,Bharathi's prose poems
+5750,Yugabharathi,2007,26,94,1,6.787,Thamarai,0.47,0,0.5088,0.4529,0.514,0.8429,Love and longing
+5736,Kannadasan,1961,12,39,0,6.667,Kannadasan,0.82,1,0.4564,0.8271,0.7044,0.5857,Kannamma: teasing and tenderness
+5728,Kannadasan,1962,14,55,0,5.691,Vairamuthu,0.47,1,0.3159,0.6205,0.5001,0.6157,Falling in love
+5408,Kabilan,2003,27,104,0,6.163,Vairamuthu,0.33,0,0.3433,0.3967,0.7905,0.6653,Falling in love
+5662,Subramanya Bharathi,,160,557,0,6.937,Subramanya Bharathi,0.98,1,0.8166,0.7611,0.6831,0.2304,"Krishna, Shiva and the divine"
+5709,Vairamuthu,1982,45,166,1,6.012,Vairamuthu,0.92,1,0.0827,0.3885,0.67,0.594,"Flowers, breeze and music"
+5417,Subramanya Bharathi,,25,98,1,7.796,Subramanya Bharathi,1.0,1,0.8387,0.7883,0.9026,0.0811,Bharathi's prose poems
+5690,Vairamuthu,1999,34,168,0,6.411,Na.Muthukumar,0.55,1,0.2129,0.2588,0.2497,0.7843,"Flowers, breeze and music"
+5678,Pa.Vijay,2003,23,119,1,6.387,Thamarai,0.54,0,0.5913,0.3484,0.5262,0.6369,Falling in love
+5416,Subramanya Bharathi,,33,98,1,7.031,Subramanya Bharathi,1.0,1,0.8566,0.7609,0.8926,0.0826,Bharathi's prose poems
+5602,Pazhani bharati,1999,22,98,0,6.357,Vairamuthu,0.53,0,0.28,0.4834,0.3484,0.7821,"Flowers, breeze and music"
+5598,Madhan Karky,2015,20,93,0,6.151,Vairamuthu,0.68,1,0.2959,0.375,0.42,0.5478,Kannamma: teasing and tenderness
+5514,Madhan Karky,2011,22,47,0,7.766,Subramanya Bharathi,0.71,1,0.6838,0.6731,0.3373,0.4148,Courage and the will to win
+5581,Kannadasan,1963,16,83,0,6.12,Kannadasan,0.58,1,0.4454,0.7837,0.3805,0.2141,"Krishna, Shiva and the divine"
+5572,Selvaraghavan,,28,116,0,5.914,Vairamuthu,0.68,0,0.1721,0.318,0.8137,0.8609,Love and longing
+5415,Subramanya Bharathi,,31,103,1,7.01,Subramanya Bharathi,1.0,1,0.8379,0.772,0.9132,0.0727,Bharathi's prose poems
+5567,Vaali,2000,24,90,1,6.4,Vairamuthu,0.52,1,0.2973,0.5395,0.645,0.9137,Love and longing
+4903,Aadhirai,,35,64,0,7.531,Vairamuthu,0.7,0,0.289,0.4816,0.5936,0.1061,Bharathi's prose poems
+4128,Vairamuthu,2014,20,107,1,6.252,Vairamuthu,0.85,1,0.1863,0.4035,0.6099,0.5474,Kannamma: teasing and tenderness
+4130,Vairamuthu,2014,39,110,0,5.664,Vairamuthu,0.89,1,0.1007,0.4087,0.6071,0.5437,Kannamma: teasing and tenderness
+5551,Kannadasan,1963,12,46,0,7.0,Kannadasan,0.96,1,0.5142,0.8866,0.6,0.0719,Bharathi's prose poems
+5547,KU. MA. Balasubramaniam,1958,13,39,1,6.359,Subramanya Bharathi,0.5,0,0.5869,0.5976,0.814,0.6519,Kannamma: teasing and tenderness
+4879,Subramanya Bharathi,1980,17,49,0,7.612,Kannadasan,0.53,1,0.5581,0.8217,0.8696,0.5923,Kannamma: teasing and tenderness
+5331,Vairamuthu,1994,24,86,1,6.081,Vairamuthu,0.41,1,0.4143,0.398,0.7891,0.8761,Love and longing
+5517,Madhan Karky,2015,16,74,0,6.081,Vairamuthu,0.54,1,0.2932,0.3108,0.3276,0.8893,Love and longing
+5414,Subramanya Bharathi,,24,90,1,7.589,Subramanya Bharathi,1.0,1,0.8464,0.7508,0.8869,0.074,Bharathi's prose poems
+4268,Kamal haasan,2015,20,61,0,6.361,Na.Muthukumar,0.5,0,0.4119,0.3223,0.2779,0.7501,"Flowers, breeze and music"
+5504,Vivek,2016,21,96,1,5.344,Vairamuthu,0.28,0,0.426,0.4425,0.8776,0.81,Falling in love
+5494,Vaali,1967,13,46,1,5.674,Vairamuthu,0.33,1,0.3957,0.6665,0.6243,0.2856,"Tamil, land and mother tongue"
+5477,Vivek,2016,20,97,1,5.825,Thamarai,0.37,0,0.6503,0.313,0.4078,0.7986,"Flowers, breeze and music"
+5471,Madhan Karky,,48,153,1,6.771,Na.Muthukumar,0.69,1,0.4795,0.1539,0.5448,0.9468,Love and longing
+5456,Vignesh Shivan,2015,28,100,1,6.52,Vaali,0.6,0,0.1882,0.5944,0.9195,0.7509,Falling in love
+5398,Pa.Vijay,2013,14,49,1,6.306,Vairamuthu,0.39,0,0.2978,0.401,0.46,0.8543,Love and longing
+5413,Subramanya Bharathi,,20,75,0,7.04,Subramanya Bharathi,1.0,1,0.855,0.7523,0.8327,0.0936,Bharathi's prose poems
+4703,Vairamuthu,,18,85,0,6.612,Vairamuthu,0.85,1,0.1045,0.4143,0.2397,0.6933,"Flowers, breeze and music"
+5391,Na. Muthukumar,2011,23,125,0,5.872,Na.Muthukumar,0.9,1,0.3632,0.0884,0.5834,0.2898,"Tamil, land and mother tongue"
+5380,Na. Muthukumar,2011,40,128,1,5.938,Na.Muthukumar,0.33,1,0.4313,0.4419,0.7,0.4725,"Tamil, land and mother tongue"
+5377,Kannadasan,,24,96,1,7.052,Kannadasan,1.0,1,0.5207,0.9126,0.4083,0.1072,"Thathuvam: God, money and man"
+5371,Vivek,2016,30,101,1,6.099,Na.Muthukumar,0.35,0,0.391,0.3078,0.3437,0.322,Courage and the will to win
+5359,Subramanya Bharathi,,20,84,1,6.119,Subramanya Bharathi,1.0,1,0.8207,0.7981,0.9057,0.0583,Bharathi's prose poems
+5351,Yugabharathi,,17,87,0,6.103,Na.Muthukumar,0.5,0,0.3268,0.2687,0.4813,0.7633,Falling in love
+5333,Kannadasan,1963,29,71,1,8.268,Kannadasan,0.74,1,0.4043,0.7713,0.9603,0.5445,Kannamma: teasing and tenderness
+5315,Vivek,,24,92,0,6.38,Vairamuthu,0.66,0,0.2243,0.3894,0.3059,0.3089,Courage and the will to win
+5209,Vairamuthu,2000,31,132,1,6.318,Na.Muthukumar,0.85,1,0.2987,0.1782,0.8386,0.8698,Love and longing
+4628,Vairamuthu,2009,26,111,1,6.198,Vairamuthu,0.82,1,0.154,0.4186,0.4288,0.7637,"Flowers, breeze and music"
+5281,Subramanya Bharathi,,24,88,0,6.659,Kannadasan,0.76,1,0.4861,0.8757,0.855,0.551,Kannamma: teasing and tenderness
+5271,Subramanya Bharathi,,25,80,1,6.15,Subramanya Bharathi,1.0,1,0.8756,0.7682,0.636,0.12,"Krishna, Shiva and the divine"
+5240,Bharathidasan,2016,28,72,0,6.861,Subramanya Bharathi,0.83,0,0.7456,0.7457,0.7269,0.4869,Kannamma: teasing and tenderness
+5241,Madhan Karky,2016,34,112,1,5.643,Madhan Karky,0.25,1,0.507,0.4102,0.7634,0.7623,Falling in love
+4947,Uma devi,2014,21,74,1,5.27,Na.Muthukumar,0.67,0,0.3859,0.1457,0.3925,0.765,"Flowers, breeze and music"
+5200,Na. Muthukumar,2011,20,112,1,5.402,Na.Muthukumar,0.68,1,0.3522,0.1871,0.573,0.8559,Love and longing
+5110,Madhan Karky,2014,36,103,1,6.049,Madhan Karky,0.46,1,0.7514,0.2583,0.5284,0.98,Love and longing
+5002,Yugabharathi,,27,108,1,5.537,Na.Muthukumar,0.76,0,0.3305,0.1859,0.7405,0.8716,Love and longing
+5179,Uma devi,2016,27,86,1,6.453,Na.Muthukumar,0.36,0,0.5403,0.4428,0.4279,0.3384,Courage and the will to win
+5166,Arunraja Kamaraj,2016,31,107,1,6.271,Na.Muthukumar,0.74,0,0.3367,0.2395,0.476,0.3364,Courage and the will to win
+5152,Uma devi,2016,20,104,1,5.567,Vairamuthu,0.5,0,0.2207,0.3034,0.355,0.9027,Love and longing
+5121,Kabilan,2016,35,150,1,5.967,Vairamuthu,0.6,0,0.2236,0.3672,0.4037,0.3345,Courage and the will to win
+5130,Kabilan,2016,22,87,1,6.034,Thamarai,0.59,0,0.7571,0.2683,0.4178,0.9039,Love and longing
+5111,Subramanya Bharathi,,5,14,0,7.214,Subramanya Bharathi,0.91,1,0.8013,0.7669,0.5792,0.1595,"Krishna, Shiva and the divine"
+4723,Kamal haasan,2010,105,344,1,7.314,Subramanya Bharathi,0.42,0,0.5919,0.5584,0.9489,0.4958,Kannamma: teasing and tenderness
+5016,Pazhani bharati,2016,10,51,1,5.471,Na.Muthukumar,0.34,0,0.3351,0.487,0.0982,0.3349,How to live
+4967,ADK,2016,28,85,1,6.353,Vairamuthu,0.34,0,0.4433,0.4677,0.9489,0.7268,Falling in love
+4976,Yugabharathi,2016,24,124,1,5.702,Vaali,0.7,0,0.3197,0.6137,0.3949,0.8479,Love and longing
+4962,Yugabharathi,2016,12,56,0,5.929,Madhan Karky,0.27,0,0.4191,0.4445,0.1488,0.7293,"Flowers, breeze and music"
+4713,Vairamuthu,1994,16,85,1,6.565,Vairamuthu,0.85,1,0.149,0.4385,0.5826,0.7085,Falling in love
+4603,Dhanush,2011,33,115,1,5.704,Na.Muthukumar,0.5,0,0.3324,0.2637,0.4507,0.8684,"Flowers, breeze and music"
+4605,Vairamuthu,1998,32,124,1,6.54,Vairamuthu,0.48,1,0.3351,0.585,0.6994,0.9556,Love and longing
+4806,Kannadasan,1980,14,87,1,7.069,Kannadasan,0.59,1,0.4605,0.7604,0.2579,0.2407,Courage and the will to win
+4888,Gangai Amaran,1985,80,222,0,5.054,Na.Muthukumar,0.32,0,0.4494,0.3548,0.4361,0.7101,"Flowers, breeze and music"
+4867,Subramanya Bharathi,,16,61,0,6.115,Subramanya Bharathi,0.94,1,0.8269,0.7844,0.6308,0.0847,Bharathi's prose poems
+4802,Kannadasan,1974,22,131,0,7.076,Kannadasan,0.6,1,0.4323,0.7916,0.2881,0.6336,"Flowers, breeze and music"
+4797,Pazhani bharati,2001,30,122,1,6.164,Vairamuthu,0.94,0,0.1323,0.4229,0.5296,0.8935,Love and longing
+4752,Vairamuthu,2003,20,109,1,6.211,Vairamuthu,0.88,1,0.1725,0.4177,0.5259,0.8983,Love and longing
+4790,Vairamuthu,1995,16,60,0,5.8,Vairamuthu,0.8,1,0.1403,0.4244,0.6499,0.7911,Love and longing
+4778,Subramanya Bharathi,,13,49,0,6.0,Subramanya Bharathi,1.0,1,0.8352,0.7208,0.6157,0.1055,"Krishna, Shiva and the divine"
+4761,Thamarai,2016,31,186,1,6.446,Thamarai,0.73,1,0.7923,0.3681,0.6043,0.9684,Love and longing
+4729,Vairamuthu,2013,24,101,1,6.04,Vairamuthu,0.77,1,0.1483,0.4883,0.5292,0.9341,Love and longing
+4709,Vaali,2002,34,103,1,6.398,Vaali,0.43,1,0.4365,0.6083,0.6768,0.8431,Love and longing
+4738,Subramanya Bharathi,,18,73,0,5.89,Subramanya Bharathi,1.0,1,0.8449,0.8051,0.6689,0.1092,Bharathi's prose poems
+4707,Thamarai,2005,32,90,1,6.222,Thamarai,0.51,1,0.6761,0.3977,0.6919,0.9708,Love and longing
+4014,Vaali,2003,24,123,1,5.78,Vaali,0.43,1,0.308,0.4876,0.5963,0.5235,Kannamma: teasing and tenderness
+4309,Vairamuthu,1994,23,72,1,6.458,Kannadasan,0.58,1,0.3598,0.7262,0.8221,0.9246,Love and longing
+4681,Na. Muthukumar,2015,30,123,1,5.951,Na.Muthukumar,0.5,1,0.4362,0.3116,0.7013,0.6627,Falling in love
+4668,Na. Muthukumar,2006,52,182,0,6.956,Vairamuthu,0.62,1,0.1979,0.2851,0.3892,0.6304,"Flowers, breeze and music"
+4596,Subramanya Bharathi,,28,124,1,7.185,Subramanya Bharathi,1.0,1,0.8367,0.7844,0.7516,0.0551,Bharathi's prose poems
+4601,Vivek,2016,26,86,1,6.326,Kannadasan,0.34,0,0.3999,0.5288,0.4868,0.3787,Courage and the will to win
+4653,Kannadasan,1962,17,78,1,6.897,Kannadasan,0.64,1,0.4551,0.754,0.7027,0.5606,Kannamma: teasing and tenderness
+4566,Kannadasan,1966,23,123,0,6.886,Vairamuthu,0.38,1,0.297,0.4739,0.3885,0.2957,How to live
+4607,Kannadasan,1979,22,85,1,5.506,Kannadasan,0.41,1,0.3134,0.6162,0.6547,0.6795,Falling in love
+4591,Subramanya Bharathi,,40,156,0,7.833,Subramanya Bharathi,1.0,1,0.8386,0.7769,0.8018,0.0259,Bharathi's prose poems
+4610,Yugabharathi,2014,42,139,1,6.209,Vaali,0.43,0,0.4474,0.5493,0.9887,0.5707,Kannamma: teasing and tenderness
+4570,Abirami Pattar,1991,12,74,0,5.716,Kannadasan,0.73,0,0.4858,0.8218,0.848,0.199,"Krishna, Shiva and the divine"
+4558,Madhan Karky,2016,25,81,1,6.123,Na.Muthukumar,0.39,1,0.5001,0.2624,0.6553,0.8342,Falling in love
+4548,Subramanya Bharathi,,25,93,0,8.097,Subramanya Bharathi,1.0,1,0.8561,0.7778,0.7746,0.0175,Bharathi's prose poems
+4487,Rohini,2007,27,103,0,6.194,Vairamuthu,0.47,0,0.3533,0.4833,0.6718,0.7638,Falling in love
+4550,Na. Muthukumar,2015,27,121,1,5.562,Na.Muthukumar,0.66,1,0.4456,0.1421,0.6035,0.7702,Falling in love
+4489,Avinasi Mani,1972,16,67,0,7.433,Kannadasan,0.97,0,0.4878,0.9392,0.1947,0.0507,"Thathuvam: God, money and man"
+4530,Vairamuthu,1995,23,87,0,6.483,Vairamuthu,0.85,1,0.1426,0.4789,0.4997,0.7672,Love and longing
+4499,Subramanya Bharathi,,34,116,1,8.724,Subramanya Bharathi,1.0,1,0.8613,0.7768,0.8119,0.0182,Bharathi's prose poems
+4522,Gangai Amaran,1978,24,133,1,6.398,Vaali,0.9,0,0.1851,0.7598,0.7704,0.3707,"Tamil, land and mother tongue"
+4469,Vairamuthu,2014,24,98,1,6.745,Vairamuthu,0.34,1,0.3543,0.541,0.2772,0.2531,Courage and the will to win
+4501,Kattalai Jaya,2015,20,84,0,6.738,Na.Muthukumar,0.39,0,0.5289,0.2983,0.2263,0.7628,"Flowers, breeze and music"
+4402,Pa.Vijay,2013,29,98,0,6.929,Vairamuthu,0.34,0,0.3263,0.5162,0.9778,0.6641,Kannamma: teasing and tenderness
+4475,Na. Muthukumar,2008,28,131,0,6.863,Na.Muthukumar,0.58,1,0.3815,0.3404,0.6076,0.747,Falling in love
+4467,Subramanya Bharathi,,33,113,0,7.69,Subramanya Bharathi,1.0,1,0.8384,0.7999,0.8172,0.0146,Bharathi's prose poems
+4346,Pulamaipithan,1991,20,71,1,6.606,Vairamuthu,0.58,0,0.2049,0.5406,0.3851,0.7878,"Flowers, breeze and music"
+4151,Vaali,1991,17,70,1,5.757,Vaali,0.52,1,0.2852,0.7716,0.5058,0.0844,"Thathuvam: God, money and man"
+4186,Vairamuthu,2000,32,137,1,6.788,Vairamuthu,0.81,1,0.2124,0.3698,0.5604,0.5611,Kannamma: teasing and tenderness
+4424,Vairamuthu,2003,22,102,1,5.931,Vairamuthu,0.73,1,0.1417,0.4478,0.6709,0.7813,Falling in love
+4415,Snehan,2001,33,116,1,6.405,Vairamuthu,0.52,0,0.2285,0.3368,0.7475,0.8516,Love and longing
+4410,Subramanya Bharathi,,19,64,0,8.219,Subramanya Bharathi,1.0,1,0.8601,0.7807,0.7439,0.0474,Bharathi's prose poems
+4348,Vairamuthu,1994,20,79,1,6.203,Vaali,0.5,1,0.3657,0.5938,0.7099,0.7187,Falling in love
+4267,Thamarai,2001,16,102,1,6.225,Madhan Karky,0.41,1,0.615,0.2169,0.7297,0.9077,Love and longing
+4375,Na. Muthukumar,2004,45,211,0,6.659,Na.Muthukumar,0.78,1,0.3972,0.1577,0.5552,0.944,Love and longing
+4360,Pulamaipithan,2016,22,57,0,5.175,Kannadasan,0.51,0,0.4048,0.7534,0.6862,0.5138,Kannamma: teasing and tenderness
+4021,Vairamuthu,,16,78,0,7.423,Kannadasan,0.54,1,0.3528,0.7167,0.2419,0.7065,"Flowers, breeze and music"
+4013,Na. Muthukumar,2003,28,119,1,5.857,Na.Muthukumar,0.68,1,0.3018,0.2166,0.5648,0.7723,Love and longing
+4280,Pa.Vijay,2014,30,122,1,6.738,Madhan Karky,0.39,0,0.5333,0.4071,0.6523,0.2207,"Krishna, Shiva and the divine"
+4327,Mashook Rahman,2008,29,86,1,6.07,Vairamuthu,0.65,0,0.276,0.505,0.8013,0.2333,"Krishna, Shiva and the divine"
+4314,Subramanya Bharathi,,25,84,0,7.714,Subramanya Bharathi,0.97,1,0.817,0.7886,0.7792,0.0253,Bharathi's prose poems
+4300,Na. Muthukumar,2011,54,247,1,6.267,Na.Muthukumar,0.53,1,0.4202,0.3842,0.0708,0.1544,"Thathuvam: God, money and man"
+4246,Vairamuthu,2016,33,116,0,5.69,Madhan Karky,0.4,1,0.4726,0.4174,0.5071,0.0749,Bharathi's prose poems
+4236,Vairamuthu,2010,37,148,0,6.101,Vairamuthu,0.69,1,0.2936,0.4013,0.602,0.4082,"Tamil, land and mother tongue"
+4196,Subramanya Bharathi,,31,93,0,8.29,Subramanya Bharathi,1.0,1,0.8207,0.7733,0.7875,0.0216,Bharathi's prose poems
+4218,Vairamuthu,1997,32,174,0,6.316,Vairamuthu,0.54,1,0.3022,0.3345,0.3954,0.9597,Love and longing
+4207,Thamarai,2014,22,88,1,6.08,Thamarai,0.4,1,0.484,0.3697,0.6939,0.8919,Love and longing
+4214,Vairamuthu,1997,17,91,1,6.56,Vairamuthu,0.51,1,0.2602,0.3445,0.7608,0.9402,Love and longing
+4188,Madhan Karky,2016,30,77,1,6.753,Na.Muthukumar,0.53,1,0.4707,0.2017,0.8523,0.8495,Love and longing
+4182,Vaali,2001,16,52,1,4.923,Vairamuthu,0.29,1,0.4052,0.3251,0.5206,1.0,Love and longing
+4170,Kannadasan,1964,12,52,0,7.615,Subramanya Bharathi,0.48,1,0.6345,0.7566,0.3944,0.2724,Courage and the will to win
+4174,Vairamuthu,1992,27,91,1,6.484,Vairamuthu,0.85,1,0.0886,0.4237,0.597,0.8782,Love and longing
+4165,Na. Muthukumar,2013,32,118,1,6.246,Vairamuthu,0.48,1,0.2667,0.3329,0.3033,0.4924,"Tamil, land and mother tongue"
+4153,Subramanya Bharathi,,36,137,0,7.985,Subramanya Bharathi,0.92,1,0.7903,0.7623,0.6462,0.3777,"Tamil, land and mother tongue"
+4144,P Kalyanasundaram,1957,17,55,1,5.4,Kannadasan,0.89,0,0.4712,0.9059,0.835,0.2337,"Krishna, Shiva and the divine"
+4104,Vairamuthu,1993,28,117,0,5.744,Vairamuthu,0.81,1,0.0975,0.4218,0.4505,0.4577,"Tamil, land and mother tongue"
+3996,Subramanya Bharathi,,129,513,1,7.955,Subramanya Bharathi,0.9,1,0.8124,0.7886,0.8085,0.1251,Bharathi's prose poems
+4029,Vaali,1965,17,67,0,6.851,Kannadasan,0.99,1,0.5158,0.93,0.2219,0.0733,"Thathuvam: God, money and man"
+4019,Mohan Rajan,2013,18,68,1,6.353,Thamarai,0.76,0,0.7673,0.4705,0.7772,0.8206,Falling in love
+4017,Vaali,2014,26,82,1,6.598,Vaali,0.89,1,0.1831,0.724,0.8205,0.7834,Falling in love
+3917,Kannadasan,1962,29,81,1,5.321,Kannadasan,0.85,1,0.4837,0.903,0.7358,0.7303,Love and longing
+3987,Kaber Vasuki,,10,66,1,5.788,Kannadasan,0.5,0,0.3846,0.7828,0.1479,0.1785,"Thathuvam: God, money and man"
+3937,Gerald Dhirav,2015,35,110,0,6.573,Na.Muthukumar,0.45,0,0.4952,0.3783,0.1979,0.6908,"Flowers, breeze and music"
+3815,Subramanya Bharathi,,28,103,0,7.427,Subramanya Bharathi,0.97,1,0.8392,0.774,0.6412,0.0865,Bharathi's prose poems
+3957,Vaali,2001,30,118,1,5.78,Na.Muthukumar,0.37,1,0.2609,0.3949,0.7005,0.8234,Love and longing
+3928,Vairamuthu,1992,14,69,0,5.71,Vairamuthu,0.75,1,0.194,0.4637,0.4911,0.4807,"Tamil, land and mother tongue"
+3933,Oorka,,26,49,0,4.673,Madhan Karky,0.76,0,0.6303,0.2155,0.2945,0.5903,Love and longing
+3909,Madhan Karky,2016,51,96,0,7.229,Madhan Karky,0.57,1,0.414,0.2511,0.7722,0.7564,Falling in love
+3907,Kamal haasan,2004,47,177,1,5.932,Vaali,0.74,0,0.1922,0.6287,0.7987,0.229,"Krishna, Shiva and the divine"
+3902,Gangai Amaran,1981,32,54,0,6.852,Vairamuthu,0.51,0,0.2565,0.494,0.2427,0.6703,"Flowers, breeze and music"
+3896,Sam.C.S,2015,19,126,1,5.484,Na.Muthukumar,0.88,0,0.3207,0.1517,0.5464,0.8569,Love and longing
+3878,Vairamuthu,2002,23,105,1,5.143,Vairamuthu,0.97,1,0.0948,0.431,0.5267,0.7635,Falling in love
+3868,Kamakodi,1986,21,89,1,5.843,Vaali,0.31,0,0.3325,0.618,0.8467,0.6891,Falling in love
+3866,Vairamuthu,2015,17,45,0,5.933,Vairamuthu,0.33,1,0.4691,0.4526,0.3289,0.7327,"Flowers, breeze and music"
+3861,Kannadasan,1961,33,96,0,5.927,Kannadasan,0.95,1,0.4793,0.8981,0.4208,0.979,Love and longing
+3858,Na. Muthukumar,2016,46,96,0,5.875,Na.Muthukumar,0.78,1,0.3939,0.1528,0.7152,0.9179,Love and longing
+3849,Vairamuthu,2001,36,141,0,7.177,Kannadasan,0.43,1,0.3699,0.6345,0.7041,0.6551,Falling in love
+3840,Vairamuthu,1997,18,56,0,8.589,Subramanya Bharathi,0.43,1,0.5367,0.5485,0.6591,0.2779,"Tamil, land and mother tongue"
+3836,Vaali,1991,11,35,0,6.086,Kannadasan,0.78,1,0.4523,0.852,0.8841,0.5201,Kannamma: teasing and tenderness
+3830,Thamarai,2015,26,124,1,6.032,Thamarai,0.91,1,0.8441,0.391,0.3533,0.8347,Love and longing
+3823,Vaali,1991,20,115,1,6.122,Thamarai,0.56,1,0.5965,0.5004,0.7725,0.8149,Falling in love
+3817,Pa.Vijay,2005,33,116,1,6.716,Vairamuthu,0.33,0,0.2618,0.4732,0.767,0.7028,Falling in love
+3803,Kannadasan,1974,21,107,0,6.748,Kannadasan,0.95,1,0.5145,0.9368,0.3033,0.0996,"Thathuvam: God, money and man"
+3801,Kabilan,2015,39,147,1,5.449,Na.Muthukumar,0.43,0,0.3439,0.3713,0.6533,0.9159,Love and longing
+3797,Kabilan,2014,34,137,1,6.153,Vaali,0.67,0,0.1716,0.6449,0.6546,0.3736,"Tamil, land and mother tongue"
+3792,Na. Muthukumar,2016,25,103,1,5.583,Na.Muthukumar,0.56,1,0.5009,0.2254,0.6707,0.9358,Love and longing
+3785,Vignesh Shivan,2015,11,57,1,5.526,Na.Muthukumar,0.73,0,0.3722,0.1726,0.7736,0.8868,Love and longing
+3782,Sean Roldan,,11,50,1,5.44,Na.Muthukumar,0.32,0,0.2948,0.5289,0.1989,0.1883,"Thathuvam: God, money and man"
+3778,Vaali,1965,14,51,0,6.98,Vairamuthu,0.41,1,0.3299,0.6383,0.6389,0.6393,Kannamma: teasing and tenderness
+3769,Vaali,1993,32,101,0,5.941,Vaali,0.64,1,0.3332,0.6556,0.3331,0.7323,"Flowers, breeze and music"
+3750,Vivek,2016,29,114,1,5.588,Na.Muthukumar,0.61,0,0.2841,0.2116,0.9484,0.7679,Falling in love
+3743,Vignesh Shivan,2015,25,72,0,7.083,Vairamuthu,0.6,0,0.1463,0.505,0.8275,0.8621,Love and longing
+3714,Pazhani bharati,2003,38,138,0,6.37,Na.Muthukumar,0.63,0,0.31,0.2422,0.2523,0.7187,"Flowers, breeze and music"
+3716,Kabilan Vairamuthu,2014,19,87,1,6.276,Na.Muthukumar,0.41,0,0.6011,0.2261,0.6747,0.762,Falling in love
+3702,Pulamaipithan,1991,22,111,1,6.667,Kannadasan,0.38,0,0.3447,0.6791,0.6586,0.3788,"Tamil, land and mother tongue"
+3698,Kannadasan,1980,43,206,1,4.209,Vaali,0.77,1,0.2059,0.6483,0.7962,0.5445,Kannamma: teasing and tenderness
+3688,Thamarai,2016,46,168,1,6.042,Thamarai,0.97,1,0.8928,0.3878,0.6738,0.967,Love and longing
+3674,Kannadasan,1967,36,142,0,6.894,Vaali,0.54,1,0.3451,0.8027,0.3872,0.1534,"Thathuvam: God, money and man"
+3665,Na. Muthukumar,2015,33,100,1,6.19,Vairamuthu,0.44,1,0.2184,0.4346,0.9868,0.6296,Kannamma: teasing and tenderness
+3653,Vairamuthu,1997,12,64,0,6.797,Vairamuthu,0.91,1,0.1359,0.4279,0.5716,0.3732,"Tamil, land and mother tongue"
+3648,Ilayaraja,2016,38,136,1,6.529,Kannadasan,0.42,0,0.4429,0.7275,0.7735,0.3031,"Tamil, land and mother tongue"
+3645,A.R.Rahman,,11,25,0,6.52,Vairamuthu,0.3,0,0.4254,0.3644,0.5849,0.4012,"Tamil, land and mother tongue"
+3641,Na. Muthukumar,2013,28,142,1,5.599,Na.Muthukumar,0.85,1,0.3526,0.1286,0.6518,0.8256,Love and longing
+3638,Subramanya Bharathi,,14,57,0,7.737,Subramanya Bharathi,0.96,1,0.8124,0.7686,0.4807,0.4128,"Tamil, land and mother tongue"
+3633,Subramanya Bharathi,,16,89,1,7.371,Subramanya Bharathi,0.99,1,0.843,0.7999,0.252,0.1727,"Thathuvam: God, money and man"
+3627,Kannadasan,1961,30,115,0,5.739,Kannadasan,0.55,1,0.3327,0.7005,0.6732,0.3007,"Tamil, land and mother tongue"
+3617,Kannadasan,1969,22,100,1,7.6,Kannadasan,0.95,1,0.4914,0.9048,0.7537,0.2469,"Krishna, Shiva and the divine"
+3613,Thamarai,2015,26,111,1,5.667,Thamarai,0.47,1,0.4956,0.3854,0.4707,0.7587,Falling in love
+3608,Vaali,1989,19,97,0,6.928,Vaali,0.59,1,0.2706,0.7233,0.1846,0.117,"Thathuvam: God, money and man"
+3604,Vairamuthu,1985,27,104,0,7.5,Vairamuthu,0.35,1,0.3685,0.4649,0.8769,0.5231,Kannamma: teasing and tenderness
+3601,Vairamuthu,2015,23,86,1,5.953,Vairamuthu,0.55,1,0.2649,0.4562,0.3933,0.3546,Courage and the will to win
+3597,Thamarai,,31,103,1,5.932,Thamarai,0.86,1,0.8383,0.3981,0.3717,0.9093,Love and longing
+3510,Vairamuthu,2012,36,135,1,6.289,Vairamuthu,0.71,1,0.1851,0.3791,0.3023,0.7646,"Flowers, breeze and music"
+3582,Jibanananda Das,2000,14,55,1,5.836,Kannadasan,0.28,0,0.5009,0.6042,0.6988,0.5719,Kannamma: teasing and tenderness
+3578,Vairamuthu,1986,18,77,1,6.0,Madhan Karky,0.78,1,0.6219,0.1827,0.5447,0.7481,Falling in love
+3572,Bharathidasan,1966,9,38,0,6.237,Subramanya Bharathi,0.43,0,0.5367,0.7154,0.4522,0.2804,Courage and the will to win
+3563,Na. Muthukumar,2004,28,103,1,7.447,Vairamuthu,0.77,1,0.1279,0.3839,0.6577,0.7893,Falling in love
+3553,Vairamuthu,2001,29,122,0,6.943,Vairamuthu,0.89,1,0.1091,0.363,0.0215,0.2762,How to live
+3546,Subramanya Bharathi,,8,50,0,7.42,Subramanya Bharathi,0.99,1,0.8027,0.7642,0.385,0.2182,Courage and the will to win
+3533,Na. Muthukumar,2012,21,94,1,7.532,Vairamuthu,0.54,1,0.2425,0.4696,0.2079,0.5719,"Flowers, breeze and music"
+3531,Kannadasan,1965,21,116,0,5.991,Vaali,0.38,1,0.4221,0.7592,0.6977,0.3724,"Tamil, land and mother tongue"
+3519,Subramanya Bharathi,,6,35,1,7.543,Subramanya Bharathi,0.95,1,0.8269,0.7399,0.2304,0.2495,How to live
+3499,Karthik Netha,2011,30,121,1,6.636,Vaali,0.43,0,0.2202,0.5544,0.984,0.6163,Kannamma: teasing and tenderness
+3464,Kannadasan,1962,21,91,0,8.132,Kannadasan,0.43,1,0.4795,0.7312,0.3212,0.1752,"Thathuvam: God, money and man"
+3444,Vaali,2009,38,221,0,5.398,Subramanya Bharathi,0.72,1,0.6458,0.7179,0.7612,0.1874,"Krishna, Shiva and the divine"
+3441,Hiphop Tamizha,2015,31,109,0,6.908,Vaali,0.67,0,0.2625,0.7003,0.283,0.2031,"Thathuvam: God, money and man"
+3436,Hiphop Tamizha,2015,23,92,1,5.5,Kannadasan,0.81,0,0.4629,0.8151,0.2993,0.2835,Courage and the will to win
+3399,Madhan Karky,,14,67,1,7.0,Vairamuthu,0.54,1,0.2919,0.3481,0.442,0.9761,Love and longing
+3397,Vairamuthu,2000,27,182,0,6.275,Vairamuthu,0.95,1,0.0926,0.3794,0.5335,0.6761,"Flowers, breeze and music"
+3385,Subramanya Bharathi,,8,24,0,6.833,Subramanya Bharathi,0.74,1,0.6826,0.7751,0.5314,0.1991,"Krishna, Shiva and the divine"
+3382,Subramanya Bharathi,2000,10,41,0,6.927,Vairamuthu,0.37,1,0.4528,0.6362,0.7433,0.0,Bharathi's prose poems
+3377,Vairamuthu,2000,30,125,1,6.08,Na.Muthukumar,0.47,1,0.3931,0.2828,0.8361,0.7604,Falling in love
+3366,Thamarai,2015,38,134,1,5.978,Thamarai,0.56,1,0.6645,0.3383,0.512,0.8383,Love and longing
+3361,Vairamuthu,2011,38,144,1,5.75,Vaali,0.49,1,0.1588,0.5516,1.0,0.6221,Kannamma: teasing and tenderness
+3349,Vairamuthu,2002,24,114,0,6.544,Vairamuthu,0.99,1,0.0931,0.3916,0.2591,0.8032,"Flowers, breeze and music"
+3327,Kamal haasan,,51,163,1,6.067,Subramanya Bharathi,0.45,0,0.5414,0.565,0.5182,0.4163,"Tamil, land and mother tongue"
+3308,Vairamuthu,2006,19,116,1,5.94,Vairamuthu,0.45,1,0.3163,0.652,0.6383,0.2759,"Tamil, land and mother tongue"
+3284,Vaali,1986,10,75,1,5.973,Vaali,0.46,1,0.2099,0.6294,0.6791,0.6148,"Flowers, breeze and music"
+3275,Vairamuthu,2000,22,112,1,5.42,Vairamuthu,0.77,1,0.1745,0.3482,0.7158,0.8525,Love and longing
+3269,Vairamuthu,1999,27,157,1,6.159,Vairamuthu,0.79,1,0.172,0.4576,0.5908,0.5718,Kannamma: teasing and tenderness
+3263,Subramanya Bharathi,,32,127,1,7.268,Subramanya Bharathi,0.99,1,0.8505,0.7581,0.638,0.3407,"Tamil, land and mother tongue"
+3253,Kamal haasan,2015,13,82,0,6.951,Subramanya Bharathi,0.49,0,0.611,0.6781,0.3952,0.1681,"Thathuvam: God, money and man"
+3243,Thamarai,2008,40,139,1,6.18,Na.Muthukumar,0.72,1,0.4182,0.1882,0.589,0.8657,Love and longing
+3236,Ku. Sa. Krishnamurthy,1954,11,72,0,7.25,Kannadasan,0.74,0,0.512,0.8647,0.1584,0.2377,How to live
+3229,Vaali,1996,18,72,1,6.014,Vairamuthu,0.38,1,0.2171,0.4786,0.7419,0.7921,Love and longing
+3220,Na. Muthukumar,2013,54,221,1,6.113,Thamarai,0.71,1,0.754,0.3483,0.6511,0.902,Love and longing
+3215,Vairamuthu,1983,17,69,0,6.333,Vairamuthu,0.6,1,0.2694,0.4356,0.8513,0.3318,"Tamil, land and mother tongue"
+3212,Vairamuthu,2015,12,44,1,7.136,Kannadasan,0.5,1,0.4297,0.665,0.5464,0.577,Kannamma: teasing and tenderness
+3202,Kannadasan,1969,10,50,0,7.56,Kannadasan,0.98,1,0.5204,0.9341,0.2917,0.1781,"Thathuvam: God, money and man"
+3185,Kannadasan,1963,15,51,0,6.412,Kannadasan,0.7,1,0.4321,0.9124,0.3976,0.1191,"Thathuvam: God, money and man"
+3170,Kannadasan,1967,15,77,0,6.364,Kannadasan,0.77,1,0.4229,0.8891,0.2128,0.0978,"Thathuvam: God, money and man"
+3159,Vairamuthu,1985,18,73,1,8.452,Vaali,0.54,1,0.1827,0.6585,0.8393,0.4526,Kannamma: teasing and tenderness
+3154,Vairamuthu,2004,50,253,0,6.593,Vairamuthu,0.61,1,0.1615,0.4669,0.8061,0.3637,"Tamil, land and mother tongue"
+3134,Subramanya Bharathi,1982,32,201,1,5.776,Subramanya Bharathi,0.79,1,0.7259,0.6911,0.8234,0.575,Kannamma: teasing and tenderness
+3124,Subramanya Bharathi,,16,128,0,7.695,Subramanya Bharathi,0.91,1,0.7821,0.7179,0.7327,0.6665,Falling in love
+3117,Subramanya Bharathi,1961,39,110,1,6.236,Subramanya Bharathi,0.46,1,0.5868,0.8043,0.4509,0.2793,Courage and the will to win
+3099,Dr.Burn,2012,51,183,1,7.115,Subramanya Bharathi,0.84,0,0.7245,0.7287,0.6562,0.1704,"Krishna, Shiva and the divine"
+3042,Subramanya Bharathi,1961,16,61,1,7.18,Subramanya Bharathi,0.99,1,0.8483,0.7466,0.8081,0.6038,Kannamma: teasing and tenderness
+3028,Bharathidasan,1951,22,85,1,6.859,Kannadasan,0.41,0,0.6069,0.7253,0.7838,0.4349,"Tamil, land and mother tongue"
+3014,Kannadasan,1964,29,97,1,7.021,Kannadasan,0.76,1,0.5679,0.9316,0.6565,0.2081,"Krishna, Shiva and the divine"
+3009,Panju Arunachalam,1984,15,56,0,6.143,Kannadasan,0.68,0,0.502,0.8152,0.4781,0.8284,Love and longing
+3001,P Kalyanasundaram,1956,26,151,1,7.126,Kannadasan,0.74,0,0.4432,0.8773,0.0762,0.1318,"Thathuvam: God, money and man"
+2984,Pulamaipithan,2000,23,117,0,6.974,Kannadasan,0.89,0,0.5041,0.9164,0.6639,0.1497,"Krishna, Shiva and the divine"
+2965,Vairamuthu,1984,19,85,1,6.776,Vairamuthu,0.67,1,0.1132,0.5331,0.3535,0.5268,"Tamil, land and mother tongue"
+2949,Thamizhachi Thangapandian,2014,17,69,0,6.0,Kannadasan,0.54,0,0.3705,0.7151,0.1324,0.3901,How to live
+2941,Vairamuthu,1995,14,53,0,6.943,Vairamuthu,0.91,1,0.1316,0.4064,0.4201,0.4632,"Tamil, land and mother tongue"
+2935,Pazhani bharati,2000,24,108,0,6.269,Na.Muthukumar,0.69,0,0.2702,0.226,0.1984,0.7392,"Flowers, breeze and music"
+2928,Kannadasan,,8,50,0,6.66,Subramanya Bharathi,0.88,1,0.8163,0.7422,0.8478,0.1412,"Krishna, Shiva and the divine"
+2920,Vaali,1994,13,73,0,6.616,Vaali,0.61,1,0.2739,0.7685,0.7895,0.3955,"Tamil, land and mother tongue"
+2813,Vaali,1991,8,42,0,6.81,Vaali,0.48,1,0.416,0.7191,0.8367,0.4047,"Tamil, land and mother tongue"
+2783,Vairamuthu,1995,21,117,1,5.88,Vaali,0.38,1,0.288,0.6823,0.4333,0.1818,"Thathuvam: God, money and man"
+2691,Na. Muthukumar,2007,16,114,0,5.711,Na.Muthukumar,0.57,1,0.3829,0.2629,0.3382,0.8965,Love and longing
+2685,Kannadasan,1980,10,41,1,6.049,Vairamuthu,0.58,1,0.1936,0.5389,0.4473,0.7416,"Flowers, breeze and music"
+2682,Gangai Amaran,1980,13,64,0,5.891,Kannadasan,0.45,0,0.4143,0.6248,0.2077,0.7555,"Flowers, breeze and music"
+2677,Gangai Amaran,1980,11,61,0,6.262,Kannadasan,0.78,0,0.4458,0.8216,0.2061,0.6569,"Flowers, breeze and music"
+2675,Vaali,1966,19,81,1,6.765,Kannadasan,0.94,1,0.4689,0.9442,0.4083,0.2535,Courage and the will to win
+2666,Subramanya Bharathi,,12,78,0,7.103,Subramanya Bharathi,0.99,1,0.836,0.7452,0.5052,0.4616,"Tamil, land and mother tongue"
+2660,Annamalai,2013,38,162,1,6.451,Thamarai,0.37,0,0.5113,0.3393,0.2889,0.3318,Courage and the will to win
+2658,Kannadasan,1964,20,58,0,7.914,Kannadasan,0.75,1,0.441,0.8078,0.1381,0.0838,"Thathuvam: God, money and man"
+2654,Vairamuthu,1983,17,85,1,6.224,Vairamuthu,0.43,1,0.2505,0.3482,0.1425,0.7769,"Flowers, breeze and music"
+2651,Thamarai,2008,21,111,1,6.315,Thamarai,0.56,1,0.5889,0.543,0.6619,0.9428,Love and longing
+2649,Na. Muthukumar,2007,30,137,1,6.562,Na.Muthukumar,0.86,1,0.3436,0.1391,0.3037,0.8095,"Flowers, breeze and music"
+2645,Vaali,,30,104,0,6.192,Vairamuthu,0.39,1,0.3754,0.4559,0.8239,0.7151,Falling in love
+2642,Vairamuthu,,40,166,0,6.964,Vairamuthu,0.74,1,0.2164,0.4455,0.0181,0.2511,How to live
+2632,Vairamuthu,1994,14,71,0,6.197,Kannadasan,0.42,1,0.3113,0.8029,0.2149,0.1729,"Thathuvam: God, money and man"
+2624,Vairamuthu,1999,39,162,1,6.432,Vairamuthu,0.97,1,0.09,0.4296,0.8204,0.3092,"Tamil, land and mother tongue"
+2619,Vaali,,22,130,1,5.215,Vairamuthu,0.46,1,0.2435,0.4452,0.5519,0.7172,"Flowers, breeze and music"
+2605,Vairamuthu,2001,30,138,0,6.964,Vairamuthu,0.82,1,0.1948,0.381,0.4098,0.3713,Courage and the will to win
+2598,Vaali,2006,17,108,1,6.139,Na.Muthukumar,0.25,1,0.4559,0.4699,0.4836,0.9324,Love and longing
+2590,Na. Muthukumar,2013,20,99,0,6.97,Na.Muthukumar,0.65,1,0.4272,0.2727,0.4487,0.6002,Falling in love
+2582,Kannadasan,1964,14,67,0,5.896,Vaali,0.86,1,0.1649,0.7548,0.2425,0.1318,"Thathuvam: God, money and man"
+2577,Madhan Karky,,18,95,0,6.0,Madhan Karky,0.66,1,0.6073,0.2037,0.4112,0.9344,Love and longing
+2570,Kabilan,2012,14,65,1,5.308,Vairamuthu,0.86,0,0.1829,0.4145,0.4674,0.7377,Falling in love
+2557,Kannadasan,,21,76,0,7.026,Kannadasan,0.91,1,0.4876,0.9189,0.1591,0.0689,"Thathuvam: God, money and man"
+2551,Vairamuthu,1998,23,125,1,6.544,Vairamuthu,0.85,1,0.1312,0.4409,0.4339,0.6639,"Flowers, breeze and music"
+2540,Vairamuthu,2007,20,83,0,7.41,Vairamuthu,0.9,1,0.0758,0.4179,0.4714,0.7183,"Flowers, breeze and music"
+2530,Vivek,,13,59,0,6.0,Vairamuthu,0.44,0,0.3981,0.4143,0.3381,0.7012,"Flowers, breeze and music"
+2522,Subramanya Bharathi,,12,72,0,6.931,Subramanya Bharathi,0.5,1,0.6432,0.6831,0.8523,0.6012,Kannamma: teasing and tenderness
+2516,Kabilan,2014,24,113,1,6.389,Vairamuthu,0.58,0,0.172,0.4686,0.4444,0.5769,Falling in love
+2502,Madhan Karky,2014,29,187,1,5.385,Kannadasan,0.4,1,0.4786,0.4986,0.7575,0.6942,Falling in love
+2500,Muthulingam,,21,82,1,5.549,Vairamuthu,0.76,0,0.1433,0.4595,0.2054,0.7163,"Flowers, breeze and music"
+2491,Kannadasan,1963,16,52,1,7.596,Kannadasan,0.98,1,0.5205,0.9247,0.2086,0.2273,How to live
+2483,Vaali,1988,24,113,1,5.637,Vaali,0.81,1,0.2391,0.6959,0.3705,0.7305,"Flowers, breeze and music"
+2462,Vaali,1991,31,129,0,6.961,Vaali,0.78,1,0.1576,0.708,0.1492,0.6777,"Flowers, breeze and music"
+2425,Na. Muthukumar,2011,22,130,0,6.085,Vairamuthu,0.32,1,0.3215,0.4117,0.2568,0.3555,Courage and the will to win
+2436,Vaali,2004,33,133,1,5.977,Vairamuthu,0.68,1,0.2033,0.4211,0.6226,0.3939,"Tamil, land and mother tongue"
+2428,Vairamuthu,1999,20,131,0,6.023,Vaali,0.62,1,0.1794,0.6318,0.4501,0.313,Courage and the will to win
+2418,Kannadasan,1966,24,96,0,7.229,Vaali,0.6,1,0.301,0.6919,0.099,0.0907,"Thathuvam: God, money and man"
+2415,Vaali,1995,22,124,0,6.508,Vaali,0.67,1,0.2129,0.6018,0.4476,0.6893,"Flowers, breeze and music"
+2409,Vairamuthu,1997,18,102,1,6.235,Vairamuthu,0.37,1,0.3193,0.619,0.6581,0.7244,Falling in love
+2393,Kannadasan,1982,9,72,1,5.333,Kannadasan,0.44,1,0.4749,0.7163,0.8201,0.6353,Kannamma: teasing and tenderness
+2387,Subramanya Bharathi,1952,10,54,0,8.259,Subramanya Bharathi,0.9,1,0.8069,0.8146,0.2177,0.2119,"Thathuvam: God, money and man"
+2377,Panju Arunachalam,1979,10,52,0,6.596,Kannadasan,0.93,0,0.515,0.8928,0.3064,0.8973,Love and longing
+2373,Pazhani bharati,1994,23,106,0,6.726,Vairamuthu,0.9,0,0.1022,0.4181,0.4523,0.4456,"Tamil, land and mother tongue"
+2367,Vaali,1989,27,95,0,7.158,Vaali,0.75,1,0.2195,0.7352,0.7952,0.5065,Kannamma: teasing and tenderness
+2365,Mohan Rajan,2013,13,82,1,5.793,Madhan Karky,0.5,0,0.433,0.1906,0.4702,0.9573,Love and longing
+2356,Kannadasan,1966,20,66,0,6.273,Kannadasan,0.94,1,0.498,0.8666,0.6301,0.4189,"Tamil, land and mother tongue"
+2349,Pulamaipithan,1987,6,26,0,6.115,Kannadasan,0.89,0,0.4914,0.8493,0.9049,0.3702,"Tamil, land and mother tongue"
+2342,Vaali,1980,15,95,0,5.821,Vaali,0.48,1,0.3473,0.8001,0.4091,0.1167,"Thathuvam: God, money and man"
+2337,Subramanya Bharathi,1961,8,36,0,6.75,Subramanya Bharathi,0.8,1,0.7503,0.6856,0.1693,0.1384,"Thathuvam: God, money and man"
+2326,Subramanya Bharathi,1961,11,48,0,6.75,Subramanya Bharathi,0.98,1,0.7981,0.7487,0.5951,0.3249,"Tamil, land and mother tongue"
+2315,Subramanya Bharathi,,19,65,1,6.338,Subramanya Bharathi,0.97,1,0.7861,0.7484,0.645,0.3487,"Tamil, land and mother tongue"
+2303,Vairamuthu,,22,100,0,5.39,Vairamuthu,0.48,1,0.2357,0.5807,0.6109,0.3715,"Tamil, land and mother tongue"
+2298,Vaali,1973,52,216,1,6.06,Vaali,0.65,1,0.2652,0.6798,0.6997,0.3554,"Tamil, land and mother tongue"
+2292,Vairamuthu,2000,25,151,1,6.338,Vairamuthu,0.66,1,0.2037,0.3657,0.3627,0.6106,"Flowers, breeze and music"
+2286,Kannadasan,1978,21,123,0,5.821,Kannadasan,0.83,1,0.4384,0.8716,0.3066,0.6846,"Flowers, breeze and music"
+2280,Vairamuthu,1995,38,121,0,7.388,Vairamuthu,0.85,1,0.1734,0.435,0.236,0.5078,"Flowers, breeze and music"
+2277,Subramanya Bharathi,2013,17,58,0,6.724,Subramanya Bharathi,0.84,1,0.7709,0.7422,0.2706,0.2662,Courage and the will to win
+2272,Pulamaipithan,1987,12,79,1,6.013,Vairamuthu,0.89,0,0.1475,0.4,0.2307,0.7033,"Flowers, breeze and music"
+2268,Thamarai,2008,26,107,0,6.327,Vairamuthu,0.5,1,0.4685,0.3906,0.756,0.9297,Love and longing
+2259,Vaali,1982,21,106,1,5.679,Subramanya Bharathi,0.73,1,0.6888,0.6937,0.8091,0.1892,"Krishna, Shiva and the divine"
+2256,KU. MA. Balasubramaniam,1955,16,93,0,6.731,Kannadasan,0.38,0,0.4289,0.7241,0.3563,0.079,"Thathuvam: God, money and man"
+2251,Kannadasan,1968,13,72,1,6.528,Vaali,0.88,1,0.1881,0.7575,0.8759,0.3781,"Tamil, land and mother tongue"
+2244,Vairamuthu,2002,17,67,0,6.522,Vairamuthu,0.87,1,0.1447,0.3942,0.4247,0.4795,"Tamil, land and mother tongue"
+2236,Vaali,1993,26,134,0,5.761,Vaali,0.77,1,0.2254,0.816,0.8137,0.4161,"Tamil, land and mother tongue"
+2197,Kannadasan,1975,21,102,1,7.686,Kannadasan,0.83,1,0.4939,0.8418,0.2874,0.1203,"Thathuvam: God, money and man"
+2201,Gangai Amaran,1980,16,80,0,5.55,Vairamuthu,0.41,0,0.2194,0.4088,0.3461,0.7144,"Flowers, breeze and music"
+2189,Gangai Amaran,1978,22,64,1,6.703,Vairamuthu,0.37,0,0.4471,0.4918,0.4126,0.8571,Love and longing
+2178,Karunanidhi,1964,20,77,0,6.221,Kannadasan,0.86,0,0.4805,0.8815,0.1591,0.2917,How to live
+2172,Vairamuthu,,38,140,1,6.45,Vairamuthu,0.77,1,0.1445,0.4684,0.675,0.2725,"Tamil, land and mother tongue"
+2162,Vairamuthu,1983,14,101,0,4.832,Vairamuthu,0.61,1,0.2147,0.4114,0.2682,0.6562,"Flowers, breeze and music"
+2156,Na. Muthukumar,2014,22,115,0,5.861,Vaali,0.4,1,0.1956,0.4235,0.4467,0.6624,"Flowers, breeze and music"
+2154,Vaali,1965,19,74,0,6.743,Kannadasan,0.78,1,0.5252,0.8564,0.2054,0.1151,"Thathuvam: God, money and man"
+2151,Vaali,1993,14,75,0,6.24,Vaali,0.87,1,0.2069,0.7859,0.7469,0.2539,"Krishna, Shiva and the divine"
+2141,Mohan Rajan,2013,15,59,0,6.322,Na.Muthukumar,0.33,0,0.3586,0.3725,0.0927,0.3178,How to live
+2135,Vaali,1988,24,102,1,5.549,Vaali,0.64,1,0.2701,0.6553,0.4584,0.7236,"Flowers, breeze and music"
+2133,Vairamuthu,2010,10,38,0,6.342,Vairamuthu,0.66,1,0.2052,0.3768,0.0968,0.4299,Love and longing
+2128,Kannadasan,1964,14,85,0,6.424,Kannadasan,0.92,1,0.477,0.872,0.3533,0.1489,"Thathuvam: God, money and man"
+2125,Kannadasan,1962,10,34,0,7.118,Kannadasan,0.73,1,0.4494,0.7721,0.0944,0.2836,How to live
+2111,Vairamuthu,1980,14,50,0,6.08,Vaali,0.5,1,0.2383,0.6962,0.2855,0.6835,"Flowers, breeze and music"
+2105,Vaali,1967,15,54,0,6.111,Kannadasan,0.44,1,0.332,0.7563,0.2087,0.3524,How to live
+2093,Kannadasan,1965,13,56,0,6.0,Kannadasan,0.94,1,0.4977,0.9052,0.8472,0.3061,"Tamil, land and mother tongue"
+2089,Kannadasan,1964,10,60,0,6.833,Kannadasan,0.93,1,0.5235,0.8759,0.7522,0.3137,"Tamil, land and mother tongue"
+2081,Vairamuthu,1983,11,77,0,6.065,Vairamuthu,0.85,1,0.1554,0.4177,0.3748,0.3546,Courage and the will to win
+2070,Udumalai Narayana Kavi,1952,21,90,1,6.189,Kannadasan,0.54,0,0.4909,0.843,0.8149,0.383,"Tamil, land and mother tongue"
+2065,Vairamuthu,2001,13,77,0,5.753,Vairamuthu,0.62,1,0.216,0.3862,0.9077,0.7926,Falling in love
+2048,Vairamuthu,1999,89,342,0,7.292,Vairamuthu,0.98,1,0.1009,0.4097,0.5292,0.5406,Kannamma: teasing and tenderness
+2039,Kannadasan,1960,16,91,0,6.275,Kannadasan,0.84,1,0.4377,0.9416,0.4895,0.2037,"Thathuvam: God, money and man"
+2031,Kannadasan,1962,12,59,1,5.458,Kannadasan,0.96,1,0.5361,0.8894,0.7757,0.1983,"Krishna, Shiva and the divine"
+1970,Kannadasan,1965,6,45,0,6.4,Kannadasan,0.96,1,0.5018,0.9689,0.3753,0.0157,"Thathuvam: God, money and man"
+1956,Kannadasan,1962,28,110,1,5.955,Kannadasan,0.58,1,0.4449,0.7145,0.5327,0.9228,Love and longing
+1948,Tiruchi Thiyagarajan,1962,10,48,0,7.562,Kannadasan,0.95,0,0.488,0.9052,0.1405,0.1382,"Thathuvam: God, money and man"
+1926,Na. Muthukumar,2009,26,107,1,6.14,Na.Muthukumar,0.92,1,0.2972,0.1299,0.8013,0.886,Love and longing
+1920,Kannadasan,1965,24,70,0,6.6,Kannadasan,0.98,1,0.509,0.9222,0.1442,0.0596,"Thathuvam: God, money and man"
+1917,Vaali,2002,46,143,1,5.762,Vairamuthu,0.8,1,0.1676,0.4046,0.1921,0.438,How to live
+1905,Vairamuthu,2002,42,143,0,5.909,Kannadasan,0.64,1,0.4247,0.7959,0.1532,0.2926,How to live
+1900,Gangai Amaran,1981,22,97,0,6.485,Vaali,0.41,0,0.4923,0.6531,0.1966,0.6977,"Flowers, breeze and music"
+1896,Paapanaasam sivan,1963,16,54,0,7.056,Kannadasan,1.0,0,0.5065,0.9437,0.1451,0.2527,How to live
+1888,Vairamuthu,1985,18,105,0,6.333,Vaali,0.64,1,0.2425,0.6315,0.4772,0.2017,"Thathuvam: God, money and man"
+1886,Kannadasan,1962,12,57,1,7.228,Kannadasan,0.53,1,0.4174,0.7573,0.7432,0.5603,Kannamma: teasing and tenderness
+1878,Gangai Amaran,1981,16,82,0,5.866,Vairamuthu,0.3,0,0.4221,0.315,0.2172,0.7205,"Flowers, breeze and music"
+1872,Vairamuthu,1982,20,71,1,6.606,Vairamuthu,0.8,1,0.1675,0.4651,0.6749,0.8933,Love and longing
+1853,Vairamuthu,2000,36,137,1,6.737,Vairamuthu,0.45,1,0.4595,0.3746,0.4728,0.9377,Love and longing
+1841,Vairamuthu,1993,14,59,1,5.661,Vairamuthu,0.42,1,0.1891,0.5627,0.7002,0.6967,Falling in love
+1836,Kannadasan,1956,17,79,0,7.114,Kannadasan,0.64,1,0.4026,0.8763,0.3308,0.1377,"Thathuvam: God, money and man"
+1828,Vaali,1992,28,85,0,6.271,Vaali,0.52,1,0.2506,0.6566,0.6949,0.3298,"Tamil, land and mother tongue"
+766,Subramanya Bharathi,,26,73,0,8.534,Subramanya Bharathi,0.9,1,0.7872,0.7191,0.1175,0.2598,How to live
+1807,Vairamuthu,1994,26,109,0,6.55,Vairamuthu,0.87,1,0.1149,0.4245,0.5073,0.5351,"Tamil, land and mother tongue"
+1795,Vairamuthu,1995,24,95,1,5.895,Vairamuthu,0.55,1,0.2766,0.5599,0.2631,0.2675,How to live
+1732,Na. Muthukumar,2009,23,124,1,6.339,Na.Muthukumar,0.76,1,0.3854,0.2167,0.1389,0.387,How to live
+1610,Vairamuthu,1995,18,66,0,6.864,Vairamuthu,0.83,1,0.1605,0.439,0.215,0.7309,"Flowers, breeze and music"
+1593,Vairamuthu,1994,7,48,1,6.062,Vairamuthu,0.84,1,0.1892,0.5144,0.6953,0.1229,Bharathi's prose poems
+1585,Kamal haasan,,24,141,0,6.993,Kannadasan,0.7,0,0.4839,0.8384,0.5499,0.2094,"Thathuvam: God, money and man"
+1564,Kamal haasan,,17,78,0,7.205,Kannadasan,0.42,0,0.513,0.6369,0.2396,0.2824,"Thathuvam: God, money and man"
+1553,Vairamuthu,2014,19,96,1,6.688,Kannadasan,0.62,1,0.4658,0.7368,0.2819,0.3462,Courage and the will to win
+1546,Vairamuthu,2014,37,154,1,6.513,Vairamuthu,0.42,1,0.2229,0.59,0.2377,0.2937,Courage and the will to win
+1535,Subramanya Bharathi,,17,61,0,6.639,Subramanya Bharathi,0.99,1,0.8336,0.7688,0.1671,0.2078,"Thathuvam: God, money and man"
+1526,Vaali,,25,86,1,5.767,Kannadasan,0.45,1,0.4052,0.6772,0.5935,0.0835,Bharathi's prose poems
+1520,Kutti Revathi,2013,10,39,0,6.077,Kannadasan,0.38,0,0.5893,0.6792,0.6857,0.4543,"Tamil, land and mother tongue"
+1510,Vairamuthu,2005,14,99,0,6.758,Vairamuthu,0.83,1,0.1619,0.4711,0.4052,0.9541,Love and longing
+1486,A.R.Rahman,2013,22,69,0,6.754,Kannadasan,0.38,0,0.395,0.585,0.3892,0.6255,"Flowers, breeze and music"
+1480,Vaali,2004,41,173,1,5.711,Vaali,0.44,1,0.25,0.5286,0.0836,0.2862,How to live
+1474,Vairamuthu,1999,20,103,1,6.67,Vairamuthu,0.89,1,0.1294,0.4044,0.1575,0.7442,"Flowers, breeze and music"
+1466,Kannadasan,,11,52,0,5.923,Kannadasan,0.9,1,0.4611,0.8957,0.3012,0.0797,"Thathuvam: God, money and man"
+1463,Vairamuthu,1996,25,113,1,6.575,Vairamuthu,0.86,1,0.108,0.3973,0.2359,0.4477,How to live
+1451,Kannadasan,1975,14,69,1,7.101,Kannadasan,0.95,1,0.4855,0.9071,0.7903,0.2758,"Krishna, Shiva and the divine"
+1432,Vaali,1968,16,101,1,7.396,Kannadasan,0.86,1,0.4272,0.8674,0.3194,0.0976,"Thathuvam: God, money and man"
+1422,Marudhakasi,1958,14,66,0,6.909,Vaali,0.41,0,0.4779,0.7296,0.8055,0.4028,"Tamil, land and mother tongue"
+1410,Kannadasan,1963,18,82,0,6.915,Kannadasan,0.96,1,0.4831,0.9262,0.2671,0.0547,"Thathuvam: God, money and man"
+1389,Kannadasan,1960,16,56,0,7.071,Kannadasan,0.94,1,0.487,0.8968,0.6325,0.2926,"Tamil, land and mother tongue"
+1374,Subramanya Bharathi,,12,63,0,8.095,Subramanya Bharathi,0.9,1,0.7838,0.7527,0.5694,0.1934,"Krishna, Shiva and the divine"
+1359,Kannadasan,1961,22,101,0,6.109,Kannadasan,0.92,1,0.4767,0.8709,0.3862,0.068,"Thathuvam: God, money and man"
+1348,Kannadasan,1978,25,92,0,6.37,Vaali,0.87,1,0.1866,0.7244,0.4375,0.1729,"Thathuvam: God, money and man"
+1330,Kannadasan,1972,37,94,0,6.968,Kannadasan,0.86,1,0.4448,0.8973,0.2894,0.09,"Thathuvam: God, money and man"
+1311,Vairamuthu,1993,26,108,1,6.546,Vairamuthu,0.85,1,0.1243,0.4328,0.0,0.3702,How to live
+1301,Vaali,1960,22,90,0,7.056,Kannadasan,0.64,1,0.5325,0.8584,0.2903,0.9056,Love and longing
+1295,Vaali,1993,18,78,0,6.974,Kannadasan,0.73,1,0.4912,0.8501,0.7025,0.4238,"Tamil, land and mother tongue"
+1284,Pazhani bharati,2005,23,108,0,6.907,Na.Muthukumar,0.28,0,0.4353,0.4967,0.0716,0.3103,How to live
+1277,Vaali,1997,29,160,1,6.6,Vaali,0.41,1,0.2134,0.6665,0.2958,0.1792,"Thathuvam: God, money and man"
+1270,Kannadasan,,16,68,1,7.456,Kannadasan,0.84,1,0.4649,0.8844,0.265,0.1675,"Thathuvam: God, money and man"
+1265,Vairamuthu,,21,124,1,6.758,Kannadasan,0.44,1,0.3473,0.6758,0.1847,0.2491,"Thathuvam: God, money and man"
+1250,Pazhani bharati,1994,22,89,0,6.371,Vairamuthu,0.63,0,0.2206,0.3621,0.4838,0.3749,Courage and the will to win
+1245,Kannadasan,1970,22,79,1,6.532,Kannadasan,0.44,1,0.3222,0.691,0.8061,0.579,Kannamma: teasing and tenderness
+1237,Vairamuthu,1993,24,84,0,5.821,Vairamuthu,0.42,1,0.2805,0.5192,0.5783,0.7975,Falling in love
+1222,Vaali,1992,22,92,1,7.174,Subramanya Bharathi,0.49,1,0.5911,0.6366,0.7025,0.2265,"Krishna, Shiva and the divine"
+1211,Kannadasan,1976,14,60,0,6.85,Kannadasan,0.99,1,0.5061,0.9238,0.3624,0.0334,"Thathuvam: God, money and man"
+1202,Karunanidhi,,34,131,0,6.931,Subramanya Bharathi,0.94,0,0.8175,0.7972,0.6639,0.4215,"Tamil, land and mother tongue"
+1184,Udumalai Narayana Kavi,1952,30,128,0,7.516,Kannadasan,0.7,0,0.5375,0.796,0.3744,0.141,"Thathuvam: God, money and man"
+1174,Vairamuthu,,24,101,0,6.594,Vairamuthu,0.59,1,0.2214,0.3348,0.3969,0.4693,"Tamil, land and mother tongue"
+1165,Vairamuthu,1999,16,74,1,7.541,Kannadasan,0.47,1,0.3242,0.7057,0.3959,0.2928,Courage and the will to win
+1157,Kannadasan,1965,16,81,0,6.877,Vaali,0.55,1,0.1685,0.6129,0.4051,0.1318,"Thathuvam: God, money and man"
+1137,Paapanaasam sivan,1944,31,82,0,6.463,Subramanya Bharathi,0.51,0,0.6631,0.8329,0.6998,0.2577,"Krishna, Shiva and the divine"
+1129,Bharathidasan,,16,81,0,6.531,Subramanya Bharathi,0.94,0,0.7889,0.7391,0.6984,0.4451,"Tamil, land and mother tongue"
+1117,Subramanya Bharathi,1964,12,45,0,7.711,Subramanya Bharathi,0.82,1,0.7278,0.7459,0.6364,0.4152,"Tamil, land and mother tongue"
+1109,Subramanya Bharathi,,17,61,0,7.41,Subramanya Bharathi,0.99,1,0.8437,0.7898,0.3134,0.2844,Courage and the will to win
+1092,Subramanya Bharathi,,12,65,0,7.215,Subramanya Bharathi,0.47,1,0.5092,0.6572,0.8426,0.6156,Kannamma: teasing and tenderness
+1082,Kannadasan,,14,80,0,6.65,Kannadasan,0.94,1,0.5178,0.9359,0.4623,0.0519,"Thathuvam: God, money and man"
+1075,Snehan,2002,19,97,1,7.0,Vaali,0.55,0,0.2372,0.6264,0.0385,0.1328,"Thathuvam: God, money and man"
+1063,Kannadasan,1966,20,80,0,7.763,Subramanya Bharathi,0.56,1,0.6868,0.8248,0.3425,0.1204,"Thathuvam: God, money and man"
+1060,Kannadasan,1975,19,53,0,7.245,Kannadasan,0.96,1,0.5292,0.919,0.1295,0.0747,"Thathuvam: God, money and man"
+1056,Elango / Satheesh,,14,103,0,6.252,Vairamuthu,0.37,0,0.2375,0.6008,0.0776,0.1308,"Thathuvam: God, money and man"
+1050,Marudhakasi,1958,14,75,0,6.76,Kannadasan,0.92,0,0.5251,0.9076,0.4661,0.1061,"Thathuvam: God, money and man"
+560,Vaali,1968,28,111,0,7.423,Kannadasan,0.44,1,0.3897,0.6666,0.2048,0.3299,Courage and the will to win
+1027,Vaali,1991,23,139,1,6.036,Vaali,0.72,1,0.2481,0.691,0.165,0.122,"Thathuvam: God, money and man"
+246,Pa.Vijay,2007,17,98,0,6.388,Na.Muthukumar,0.81,0,0.3287,0.1997,0.3509,0.3344,Courage and the will to win
+959,Vairamuthu,,20,96,0,6.677,Vairamuthu,0.95,1,0.0776,0.4208,0.2741,0.3321,Courage and the will to win
+993,Kamal haasan,,22,156,1,7.628,Subramanya Bharathi,0.95,0,0.8432,0.7561,0.5488,0.1517,"Krishna, Shiva and the divine"
+984,Ilayaraja,2009,21,104,0,6.154,Subramanya Bharathi,0.37,0,0.5422,0.6586,0.5284,0.1396,"Krishna, Shiva and the divine"
+977,Selvaraghavan,2011,29,128,1,6.344,Kannadasan,0.28,0,0.431,0.4955,0.0898,0.2668,How to live
+974,Subramanya Bharathi,1982,8,33,0,7.545,Subramanya Bharathi,0.87,1,0.7765,0.763,0.5643,0.6478,"Flowers, breeze and music"
+963,Kannadasan,1964,12,60,0,7.583,Kannadasan,0.91,1,0.4777,0.9116,0.3118,0.5811,"Flowers, breeze and music"
+867,Vaali,1982,12,74,1,5.878,Kannadasan,0.28,1,0.3375,0.6121,0.7394,0.3081,"Tamil, land and mother tongue"
+940,Kannadasan,1961,19,68,0,7.632,Kannadasan,0.91,1,0.4909,0.9095,0.258,0.0471,"Thathuvam: God, money and man"
+934,TN Ramiah Das,1954,21,84,0,6.726,Kannadasan,0.63,0,0.4234,0.845,0.3784,0.236,Courage and the will to win
+919,Vairamuthu,,27,99,0,6.838,Vairamuthu,0.84,1,0.1802,0.5032,0.4203,0.3497,Courage and the will to win
+909,Kannadasan,1970,16,64,0,7.266,Kannadasan,0.93,1,0.4615,0.926,0.5909,0.06,Bharathi's prose poems
+877,Vairamuthu,1986,9,49,0,6.02,Kannadasan,0.69,1,0.3848,0.7853,0.2602,0.3727,Courage and the will to win
+871,Aabavanan,1986,13,36,0,5.972,Kannadasan,0.98,0,0.5144,0.9439,0.0627,0.2157,How to live
+853,Kannadasan,,15,40,1,7.35,Kannadasan,0.99,1,0.5242,0.9379,0.678,0.2243,"Krishna, Shiva and the divine"
+844,Paapanaasam sivan,1941,12,42,0,7.429,Kannadasan,0.42,0,0.5649,0.7515,0.2802,0.0821,"Thathuvam: God, money and man"
+833,Subramanya Bharathi,1980,16,58,0,7.241,Subramanya Bharathi,0.99,1,0.8477,0.7825,0.6259,0.1698,"Krishna, Shiva and the divine"
+820,Subramanya Bharathi,,14,61,0,7.246,Subramanya Bharathi,0.99,1,0.8623,0.7785,0.4739,0.2261,Courage and the will to win
+750,Vaali,1965,14,52,1,6.615,Kannadasan,0.8,1,0.4539,0.9127,0.7745,0.5932,Kannamma: teasing and tenderness
+715,Kannadasan,,19,63,1,6.81,Kannadasan,1.0,1,0.5031,0.9055,0.1917,0.2342,How to live
+633,Kannadasan,,12,43,0,7.558,Kannadasan,0.82,1,0.4154,0.8045,0.1018,0.1769,How to live
+490,Vaali,,22,114,1,5.465,Na.Muthukumar,0.37,1,0.463,0.3634,0.4743,0.3527,Courage and the will to win
+607,Kannadasan,1979,20,51,1,7.255,Kannadasan,0.85,1,0.5049,0.8798,0.1836,0.2001,"Thathuvam: God, money and man"
+587,Kannadasan,1963,12,37,0,8.216,Kannadasan,1.0,1,0.5342,0.9536,0.2741,0.0786,"Thathuvam: God, money and man"
+537,V.Lakshman,1963,18,76,1,6.711,Kannadasan,0.98,0,0.4976,0.9253,0.2686,0.0586,"Thathuvam: God, money and man"
+540,Marudhakasi,1956,44,55,0,6.455,Kannadasan,0.88,0,0.4942,0.8771,0.112,0.1936,How to live
+525,Kannadasan,,18,103,1,6.602,Kannadasan,0.5,1,0.3588,0.7617,0.3093,0.1851,"Thathuvam: God, money and man"
+205,Pulamaipithan,1988,22,76,1,5.776,Vaali,0.63,0,0.2467,0.64,0.5834,0.3625,"Tamil, land and mother tongue"
+507,Vaali,1971,18,81,1,6.963,Kannadasan,0.9,1,0.5263,0.8855,0.4596,0.0469,"Thathuvam: God, money and man"
+493,Vairamuthu,,27,131,1,6.374,Vairamuthu,0.64,1,0.2233,0.5364,0.5974,0.3565,"Tamil, land and mother tongue"
+478,puratchidasan,1980,12,53,1,6.075,Kannadasan,0.59,0,0.4345,0.7743,0.2587,0.3472,Courage and the will to win
+426,Vaali,,14,49,0,6.857,Kannadasan,0.89,1,0.4575,0.9245,0.2046,0.2336,How to live
+421,Kannadasan,,18,73,1,7.288,Vaali,0.41,1,0.386,0.6447,0.7293,0.1636,"Krishna, Shiva and the divine"
+404,Aabavanan,,8,55,0,6.891,Vairamuthu,0.35,0,0.3845,0.5687,0.2217,0.3436,Courage and the will to win
+263,Gangai Amaran,2008,36,126,1,6.794,Na.Muthukumar,0.67,0,0.3744,0.2689,0.3267,0.3298,Courage and the will to win
+148,Kannadasan,,12,44,1,7.045,Kannadasan,0.56,1,0.3879,0.8535,0.2559,0.2045,"Thathuvam: God, money and man"
+367,Subramanya Bharathi,1985,15,49,0,6.612,Subramanya Bharathi,0.53,1,0.6837,0.815,0.4767,0.2491,Courage and the will to win
+340,Kannadasan,1968,20,55,0,7.109,Kannadasan,1.0,1,0.5278,0.969,0.264,0.0203,"Thathuvam: God, money and man"
+330,Vaali,1965,16,77,1,6.351,Kannadasan,0.64,1,0.4023,0.8437,0.1006,0.2255,How to live
+322,Kannadasan,,15,78,0,6.333,Kannadasan,0.99,1,0.4653,0.9491,0.3376,0.0309,"Thathuvam: God, money and man"
+313,Vaali,,33,100,1,6.99,Vaali,0.44,1,0.3848,0.7703,0.0806,0.0989,"Thathuvam: God, money and man"
+290,Pa.Vijay,,24,130,1,6.585,Vairamuthu,0.66,0,0.2795,0.4004,0.2427,0.3598,Courage and the will to win
+279,Kannadasan,,18,67,0,7.985,Kannadasan,0.99,1,0.4796,0.9585,0.1832,0.058,"Thathuvam: God, money and man"
+261,Kannadasan,1961,24,67,0,8.0,Kannadasan,0.95,1,0.4603,0.9179,0.1853,0.0396,"Thathuvam: God, money and man"
+252,Kannadasan,1962,12,53,0,7.453,Kannadasan,0.87,1,0.4697,0.9204,0.344,0.0558,"Thathuvam: God, money and man"
+226,Kannadasan,,22,60,0,6.483,Na.Muthukumar,0.48,1,0.4107,0.4449,0.0637,0.3979,How to live
+207,Kannadasan,1964,19,106,0,6.16,Kannadasan,1.0,1,0.4852,0.9092,0.3216,0.1275,"Thathuvam: God, money and man"
+196,Kannadasan,1962,12,64,0,7.953,Kannadasan,0.98,1,0.4986,0.9095,0.0724,0.2148,How to live
+184,P Kalyanasundaram,1958,18,75,1,8.2,Vaali,0.35,0,0.3572,0.616,0.3652,0.2526,Courage and the will to win
+166,Pulamaipithan,1988,24,114,1,6.439,Thamarai,0.32,0,0.5404,0.3904,0.4471,0.3179,Courage and the will to win
+160,Kannadasan,,19,66,0,7.636,Kannadasan,0.91,1,0.4764,0.8718,0.4011,0.0246,"Thathuvam: God, money and man"
+136,Kannadasan,1962,18,85,0,6.294,Kannadasan,0.97,1,0.5007,0.9208,0.2624,0.119,"Thathuvam: God, money and man"
+139,Kannadasan,,20,99,1,6.566,Kannadasan,0.44,1,0.3886,0.7102,0.08,0.2176,How to live
+120,Kannadasan,,17,52,0,6.769,Kannadasan,0.99,1,0.4826,0.9489,0.1111,0.2382,How to live
+122,Kannadasan,1961,18,79,0,7.291,Kannadasan,0.93,1,0.477,0.8914,0.0349,0.1676,"Thathuvam: God, money and man"
+108,Vaali,,22,69,0,7.739,Kannadasan,0.99,1,0.5309,0.9234,0.2873,0.0325,"Thathuvam: God, money and man"
+104,Vairamuthu,2003,10,53,1,6.434,Kannadasan,0.94,1,0.4674,0.8818,0.699,0.1649,"Krishna, Shiva and the divine"
+99,Vairamuthu,1995,28,95,1,6.895,Vairamuthu,0.52,1,0.2888,0.6148,0.2476,0.2502,Courage and the will to win
+88,Na. Muthukumar,2006,31,171,1,6.684,Na.Muthukumar,0.46,1,0.3231,0.32,0.0223,0.2119,How to live
+59,Vairamuthu,,32,107,1,6.43,Vaali,0.68,1,0.2572,0.7252,0.1246,0.1422,"Thathuvam: God, money and man"
+63,Vaali,,16,81,0,7.012,Kannadasan,0.86,1,0.4549,0.8935,0.1521,0.2076,How to live
+71,Vairamuthu,1984,22,72,0,6.042,Kannadasan,0.93,1,0.5005,0.8617,0.0509,0.3434,How to live
+44,Suratha,1965,17,53,0,8.321,Kannadasan,0.96,0,0.4892,0.9233,0.0137,0.196,How to live
+35,Kannadasan,1962,26,70,0,5.914,Kannadasan,0.88,1,0.4623,0.8501,0.0423,0.1412,"Thathuvam: God, money and man"
+6,Kannadasan,1978,21,117,1,5.718,Kannadasan,0.54,1,0.3451,0.7526,0.1528,0.1125,"Thathuvam: God, money and man"
